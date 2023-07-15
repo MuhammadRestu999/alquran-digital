@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html data-bs-theme="<%= theme %>">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Al-Qur'an</title>
+    <link rel="stylesheet" href="/src/bootstrap.min.css">
+    <link rel="stylesheet" href="/src/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/src/style.css">
+  </head>
+  <body>
+    <nav class="navbar bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img src="/src/al-quran-14834.png" alt="Al-Qur'an" width="20" class="d-inline-bloxk align-text-top">
+          Al-Qur'an digital
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Beranda</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Tentang</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Donasi</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Kode sumber (Coming soon)</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <br>
+    <div class="container">
+      <div class="text-center">
+        <img src="/src/al-quran-14969.png" class="rounded" alt="Al-Qur'an">
+      </div>
+      <br><br>
+      <div class="input-group flex-nowrap">
+        <span class="input-group-text" id="srch"><i class="bi bi-search"></i></span>
+        <input type="search" class="form-control" onchange="search(this.value)" placeholder="Cari surah" aria-label="Cari surah" aria-describedby="srch">
+      </div>
+      <br><br><% for(const i of listSurah) { %>
+      <div class="card">
+        <a href="/surah/<%= i.id %>">
+          <h1 class="surah"><%= i.id %></h1>
+          <h2 style="text-align: center;"><%= i.latin %></h2>
+          <hr>
+          <h4 style="text-align: center;"><%= i.translation %></h4>
+        </a>
+      </div><% } %>
+      <button id="scrollToTop">
+        <i class="bi bi-arrow-up"></i>
+      </button>
+    </div>
+    <script src="/src/bootstrap.bundle.min.js"></script>
+    <script src="/src/jquery.min.js"></script>
+    <script>
+      function search(q) {
+        alert(q);
+      };
+      $(window).scroll(function() {
+        if($(window).scrollTop() >= 350) $("#scrollToTop").fadeIn();
+        else $("#scrollToTop").fadeOut();
+      });
+      $("#scrollToTop").fadeOut();
+      $("#scrollToTop").on("click", function() {
+        $("html, body").animate({ scrollTop : 0 }, 500);
+      });
+    </script>
+  </body>
+</html>
