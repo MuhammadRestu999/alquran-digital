@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html data-bs-theme="<%= theme %>">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Al-Qur'an || <%= data.transliteration %></title>
+    <link rel="stylesheet" href="/src/bootstrap.min.css">
+    <link rel="stylesheet" href="/src/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/src/style.css">
+  </head>
+  <body>
+    <nav class="navbar bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <img src="/src/al-quran-14834.png" alt="Al-Qur'an" width="20" class="d-inline-bloxk align-text-top">
+          Al-Qur'an digital
+        </a>
+        <button class="navbar-toggler" type="button" onclick="location.href = '/';">
+          <i class="bi bi-house"></i>
+        </button>
+      </div>
+    </nav>
+    <br>
+    <div class="container"><% for(let ayat of data.ayah) { %>
+      <div class="ayat">
+        <h1 class="text-center"><%= ayat.ayah %></h1>
+        <hr>
+        <h3 class="text-end arabic"><%= ayat.arabic %></h3>
+        <p><%= ayat.latin.trim() %></p>
+        <p><%- ayat.translation.replace(/([0-9]+\))/g, `<sup class="footnotes" data-bs-toggle="modal" data-bs-target="#footnotes" data-ayat="${ayat.ayah}">$1</sup>`) %></p>
+      </div>
+      <br><br><% } %>
+      <div class="modal" tabindex="-1" id="footnotes">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Catatan kaki</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <p id="catatankaki"></p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/src/bootstrap.bundle.min.js"></script>
+    <script src="/src/jquery.min.js"></script>
+    <script>
+      footnotes.addEventListener("show.bs.modal", (e) => {
+        const ayat = event.relatedTarget.getAttribute("data-ayat");
+        const _ayat = <%- JSON.stringify(data.ayah) %>;
+        const html = _ayat.find(a => a.ayah == ayat).footnotes
+          .replace(/([0-9]+\))/g, `<sup class="footnotes">$1</sup>`);
+
+        catatankaki.innerHTML = html;
+      });
+    </script>
+  </body>
+</html>

@@ -11,7 +11,15 @@ if(fs.readdirSync("surah").length !== 114) __exit("Terdeteksi file surah belum l
 
 const app = express();
 const api = express.Router();
+app.use(cookieParser());
 app.use((req, res, next) => {
+  const { theme } = req.cookies;
+  if(!theme) res.cookie("theme", "light", {
+    maxAge: 31104000000
+  });
+
+  req.theme = theme || "light";
+
   const _req = Date.now()
   res.on("finish", () => {
     const _end = Date.now()
@@ -21,7 +29,6 @@ app.use((req, res, next) => {
   });
   next();
 })
-app.use(cookieParser());
 app.use(express.static("public"));
 app.set("view engine", "ejs");
 app.use("/api", api);
@@ -36,15 +43,27 @@ const listSurah = fs.readdirSync("surah/").sort((a, b) => a.slice(0, -5) - b.sli
 });
 
 app.get("/", (req, res) => {
-  const { theme } = req.cookies;
-  if(!theme) res.cookie("theme", "light");
-
   res.render("index", {
     listSurah,
-    theme: theme || "light"
+    theme: req.theme
   });
 });
+app.get("/donasi", (req, res) => {
+  // Kalau bisa, tolong jangan ganti yang dibawah
+  // Hargai orang yang membuat kode ini
+  // Boleh ubah kalo kode yang diubah ada banyak
+  res.redirect("https://saweria.co/MuhammadRestu");
+});
+app.get("/surah/:no", (req, res, next) => {
+  const { no } = req.params;
+  if(!/^[0-9]+$/.test(no) || no > 114) return next();
 
+  const data = JSON.parse(fs.readFileSync(`surah/${no}.json`));
+  res.render("surah", {
+    theme: req.theme,
+    data
+  });
+});
 
 api.get(["/surah/:no", "/surah/:no/:ayat"], (req, res) => {
   const { no, ayat } = req.params;
@@ -72,5 +91,11 @@ api.get(["/surah/:no", "/surah/:no/:ayat"], (req, res) => {
   else res.status(200).send(data);
 });
 
+// 404 Handle
+app.use((req, res) => {
+  res.status(404).render("404", {
+    theme: req.theme
+  });
+});
 
 app.listen(8080, () => console.log("Server Al-Qur'an berjalan pada port 8080"));

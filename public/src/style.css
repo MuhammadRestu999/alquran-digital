@@ -1,3 +1,10 @@
+@font-face{
+  font-family: "LPMQ";
+  src: url("https://kangismet.github.io/fonts/lpmq.eot");
+  src: url("https://kangismet.github.io/fonts/lpmq.ttf");
+}
+
+
 html[data-bs-theme="dark"] {
   --hover-color: #31342F;
 }
@@ -14,7 +21,7 @@ a:link, a:visited, a:hover, a:active {
   color: var(--bs-body-color);
 }
 
-.card {
+.listsurah > .card {
   margin-top: 7%;
   box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
@@ -22,7 +29,7 @@ a:link, a:visited, a:hover, a:active {
   border-radius: 3%;
 }
 
-.card:hover {
+.listsurah > .card:hover {
   background-color: var(--hover-color);
 }
 
@@ -47,4 +54,15 @@ a:link, a:visited, a:hover, a:active {
   color: white;
   cursor: pointer;
   border-radius: 4px;
+}
+
+.arabic {
+  font-family: LPMQ, "Traditional Arabic", "Tahoma, sans-serif";
+  text-align: right;
+  direction: rtl;
+  line-height: 2.5em;
+}
+
+.footnotes {
+  color: red;
 }
