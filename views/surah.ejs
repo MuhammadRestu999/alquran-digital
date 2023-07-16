@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html data-bs-theme="<%= theme %>">
   <head>
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="Al-Qur'an || <%= data.transliteration %>" />
+    <meta name="description" content="Klik disini untuk membaca surah <%= data.transliteration %> secara online" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Al-Qur'an || <%= data.transliteration %></title>
+
     <link rel="stylesheet" href="/src/bootstrap.min.css">
     <link rel="stylesheet" href="/src/bootstrap-icons/font/bootstrap-icons.css">
     <link rel="stylesheet" href="/src/style.css">
@@ -22,6 +26,22 @@
     <link rel="manifest" href="/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://quran.mrestu.my.id/" />
+    <meta property="og:title" content="Al-Qur'an || <%= data.transliteration %>" />
+    <meta property="og:description" content="Klik disini untuk membaca surah <%= data.transliteration %> secara online" />
+    <meta property="og:image" content="https://quran.mrestu.my.id/src/al-quran-14969.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://quran.mrestu.my.id/" />
+    <meta property="twitter:title" content="Al-Qur'an || <%= data.transliteration %>" />
+    <meta property="twitter:description" content="Klik disini untuk membaca surah <%= data.transliteration %> secara online" />
+    <meta property="twitter:image" content="https://quran.mrestu.my.id/src/al-quran-14969.png" />
+
+    <!-- Meta Tags Generated with https://metatags.io -->
   </head>
   <body>
     <nav class="navbar bg-body-tertiary">
