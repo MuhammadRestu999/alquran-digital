@@ -64,6 +64,12 @@ app.get("/surah/:no", (req, res, next) => {
     data
   });
 });
+app.get("/bookmarks", (req, res) => {
+  res.render("bookmarks", {
+    listSurah,
+    theme: req.theme
+  });
+});
 
 api.get(["/surah/:no", "/surah/:no/:ayat"], (req, res) => {
   const { no, ayat } = req.params;

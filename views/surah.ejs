@@ -50,6 +50,12 @@
           <img src="/src/al-quran-14834.png" alt="Al-Qur'an" width="20" class="d-inline-bloxk align-text-top">
           Al-Qur'an digital
         </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#search">
+          <i class="bi bi-search"></i>
+        </button>
+        <button class="navbar-toggler" type="button" onclick="bookmark(this)">
+          <i class="bi bi-bookmark"></i>
+        </button>
         <button class="navbar-toggler" type="button" onclick="location.href = '/';">
           <i class="bi bi-house"></i>
         </button>
@@ -83,18 +89,98 @@
           </div>
         </div>
       </div>
+      <div class="modal" tabindex="-1" id="search">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Telusuri ayat</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <p>Masukkan nomor ayat atau terjemahan ayat untuk mulai mencari, contoh(Al-Baqarah): <a href="#" onclick="document.querySelector('[type=search]').value = 'Allah tidak membebani seseorang';">Terjemahan</a> || <a href="#" onclick="document.querySelector('[type=search]').value = '286';">Nomor ayat</a></p>
+              <input type="search" placeholder="Teks atau nomor ayat">
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
+              <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onclick="search(document.querySelector('[type=search]'))">Cari</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal" tabindex="-1" id="error">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Error</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <p id="errorMsg"></p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <script src="/src/bootstrap.bundle.min.js"></script>
     <script src="/src/jquery.min.js"></script>
     <script>
+      const _ayat = <%- JSON.stringify(data.ayah) %>;
+      if(JSON.parse(localStorage.bookmarks).includes("<%= data.latin %>")) {
+        $("button[onclick='bookmark(this)'] > i").attr("class", "bi bi-bookmark-fill");
+      } else {
+        $("button[onclick='bookmark(this)'] > i").attr("class", "bi bi-bookmark");
+      }
+
       footnotes.addEventListener("show.bs.modal", (e) => {
         const ayat = event.relatedTarget.getAttribute("data-ayat");
-        const _ayat = <%- JSON.stringify(data.ayah) %>;
         const html = _ayat.find(a => a.ayah == ayat).footnotes
           .replace(/^(\d+\))/g, `<span class="footnotes">$1</span>`);
 
         catatankaki.innerHTML = html;
       });
+      function search(input) {
+        const q = input.value;
+        if(!q) {
+          $("#errorMsg").text("Kueri tidak boleh kosong!");
+          new bootstrap.Modal("#error").show();
+          return
+        };
+
+        const out = _ayat.find(a => a.ayah == q || a.translation.toLowerCase().includes(q.toLowerCase()));
+        input.value = "";
+        if(!out) {
+          $("#errorMsg").text("Tidak dapat menemukan ayat dengan kueri tersebut!");
+          new bootstrap.Modal("#error").show();
+          return
+        };
+
+         const html = `
+        <div class="ayat">
+          <h1 class="text-center">${out.ayah}</h1>
+          <hr>
+          <h3 class="text-end arabic">${out.arabic}</h3>
+          <p>${out.latin.trim()}</p>
+          <p><${out.translation.replace(/([0-9]+\))/g, `<sup class="footnotes" data-bs-toggle="modal" data-bs-target="#footnotes" data-ayat="${out.ayah}">$1</sup>`)}</p>
+        </div>
+        <br><br>`;
+        $(".container > div:nth-child(1)").html(html);
+      };
+      function bookmark(button) {
+        if(!localStorage.bookmarks) localStorage.bookmarks = "[]";
+
+        let bookmarks = JSON.parse(localStorage.bookmarks);
+        if(bookmarks.includes("<%= data.latin %>")) {
+          bookmarks = bookmarks.filter(v => v !== "<%= data.latin %>");
+          $(button).find("i").attr("class", "bi bi-bookmark");
+        } else {
+          bookmarks.push("<%= data.latin %>");
+          $(button).find("i").attr("class", "bi bi-bookmark-fill");
+        };
+        localStorage.bookmarks = JSON.stringify(bookmarks);
+      };
     </script>
   </body>
 </html>
