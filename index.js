@@ -70,6 +70,12 @@ app.get("/bookmarks", (req, res) => {
     theme: req.theme
   });
 });
+app.get("/asmaulhusna", (req, res) => {
+  res.render("asmaulhusna", {
+    listSurah,
+    theme: req.theme
+  });
+});
 
 api.get(["/surah/:no", "/surah/:no/:ayat"], (req, res) => {
   const { no, ayat } = req.params;
