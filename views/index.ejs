@@ -26,7 +26,12 @@
               <a class="nav-link" href="/donasi" target="_blank">Donasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Kode sumber (Coming soon)</a>
+              <a class="nav-link" href="https://github.com/MuhammadRestu999/alquran-digital.git" target="_blank">Kode sumber</a>
+            </li>
+            <li class="nav-item">
+              <p type="button" aria-label="Ubah tema" onclick="switchTheme()">
+                <i class="bi bi-<%= theme === "light" ? "moon" : "sun" %>"></i>
+              </p>
             </li>
           </ul>
         </div>
@@ -42,7 +47,7 @@
         <span class="input-group-text" id="srch"><i class="bi bi-search"></i></span>
         <input type="search" class="form-control" onchange="search(this.value)" onsearch="search(this.value)" placeholder="Cari surah" aria-label="Cari surah" aria-describedby="srch">
       </div>
-      <div id="listsurah"><% for(const i of listSurah) { %>
+      <div class="overflow-scroll" id="listsurah" style="height: 50vh;"><% for(const i of listSurah) { %>
         <div class="card">
           <a href="/surah/<%= i.id %>">
             <h1 class="surah"><%= i.id %></h1>
@@ -51,10 +56,10 @@
             <h4 style="text-align: center;"><%= i.translation %></h4>
           </a>
         </div><% } %>
+        <button id="scrollToTop">
+          <i class="bi bi-arrow-up"></i>
+        </button>
       </div>
-      <button id="scrollToTop">
-        <i class="bi bi-arrow-up"></i>
-      </button>
     </div>
     <script src="/src/bootstrap.bundle.min.js"></script>
     <script src="/src/jquery.min.js"></script>
@@ -79,13 +84,20 @@
         };
         listsurah.innerHTML = inner;
       };
-      $(window).scroll(function() {
-        if($(window).scrollTop() >= 350) $("#scrollToTop").fadeIn();
+      function switchTheme() {
+        let current = document.cookie.split("; ").map(v => v.split("=")).find(v => v[0] == "theme")[1];
+        document.cookie = "theme=" + (current === "dark" ? "light" : "dark") + "; max-age=" + (60*60*24*30*12);
+        current = document.cookie.split("; ").map(v => v.split("=")).find(v => v[0] == "theme")[1];
+        $('[aria-label="Ubah tema"] > i').attr("class", "bi bi-" + (current === "dark" ? "sun" : "moon"));
+        $("html").attr("data-bs-theme", current);
+      };
+      $("#listsurah").scroll(function() {
+        if($("#listsurah").scrollTop() >= 5) $("#scrollToTop").fadeIn();
         else $("#scrollToTop").fadeOut();
       });
       $("#scrollToTop").fadeOut();
       $("#scrollToTop").on("click", function() {
-        $("html, body").animate({ scrollTop : 0 }, 500);
+        $("#listsurah").animate({ scrollTop : 0 }, 500);
       });
     </script>
   </body>

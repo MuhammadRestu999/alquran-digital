@@ -21,7 +21,7 @@ a:link, a:visited, a:hover, a:active {
   color: var(--bs-body-color);
 }
 
-.listsurah > .card {
+#listsurah > .card {
   margin-top: 7%;
   box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
@@ -29,7 +29,7 @@ a:link, a:visited, a:hover, a:active {
   border-radius: 3%;
 }
 
-.listsurah > .card:hover {
+#listsurah > .card:hover {
   background-color: var(--hover-color);
 }
 

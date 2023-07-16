@@ -20,15 +20,17 @@
       </div>
     </nav>
     <br>
-    <div class="container"><% for(let ayat of data.ayah) { %>
-      <div class="ayat">
-        <h1 class="text-center"><%= ayat.ayah %></h1>
-        <hr>
-        <h3 class="text-end arabic"><%= ayat.arabic %></h3>
-        <p><%= ayat.latin.trim() %></p>
-        <p><%- ayat.translation.replace(/([0-9]+\))/g, `<sup class="footnotes" data-bs-toggle="modal" data-bs-target="#footnotes" data-ayat="${ayat.ayah}">$1</sup>`) %></p>
+    <div class="container">
+      <div><% for(const ayat of data.ayah) { %>
+        <div class="ayat">
+          <h1 class="text-center"><%= ayat.ayah %></h1>
+          <hr>
+          <h3 class="text-end arabic"><%= ayat.arabic %></h3>
+          <p><%= ayat.latin.trim() %></p>
+          <p><%- ayat.translation.replace(/([0-9]+\))/g, `<sup class="footnotes" data-bs-toggle="modal" data-bs-target="#footnotes" data-ayat="${ayat.ayah}">$1</sup>`) %></p>
+        </div>
+        <br><br><% } %>
       </div>
-      <br><br><% } %>
       <div class="modal" tabindex="-1" id="footnotes">
         <div class="modal-dialog">
           <div class="modal-content">
@@ -53,7 +55,7 @@
         const ayat = event.relatedTarget.getAttribute("data-ayat");
         const _ayat = <%- JSON.stringify(data.ayah) %>;
         const html = _ayat.find(a => a.ayah == ayat).footnotes
-          .replace(/([0-9]+\))/g, `<sup class="footnotes">$1</sup>`);
+          .replace(/^(\d+\))/g, `<span class="footnotes">$1</span>`);
 
         catatankaki.innerHTML = html;
       });
