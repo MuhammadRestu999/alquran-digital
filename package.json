@@ -4,6 +4,9 @@
   "description": "Web for reading Al-Qur'an online",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
+    "install": "node fetch_data",
+    "install_and_start": "node fetch_data && node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
