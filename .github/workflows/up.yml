@@ -25,7 +25,7 @@ jobs:
       - name: Installing
         run: |
           npm i
-          node fetch_surah.js
+          node fetch_data.js
 
       - name: Running
         run: node .
