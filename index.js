@@ -6,8 +6,8 @@ const __exit = (message) => {
   console.log(message);
   process.exit(1);
 };
-if(!fs.existsSync("surah")) __exit("Wajib mengambil data dari web kemenag saat pertama kali!\n\nJalankan `node fetch_data.js`");
-if(fs.readdirSync("surah").length !== 114) __exit("Terdeteksi file surah belum lengkap, jalankan perintah ini:\n`node fetch_data.js`");
+if(!fs.existsSync("surah") || !fs.existsSync("juz")) __exit("Wajib mengambil data dari web kemenag saat pertama kali!\n\nJalankan `node fetch_data.js`");
+if(fs.readdirSync("surah").length !== 114 || fs.readdirSync("juz").length !== 30) __exit("Terdeteksi file surah atau juz belum lengkap, jalankan perintah ini:\n`node fetch_data.js`");
 
 const app = express();
 const api = express.Router();
@@ -41,6 +41,10 @@ const listSurah = fs.readdirSync("surah/").sort((a, b) => a.slice(0, -5) - b.sli
   delete json.ayah;
   return json
 });
+const listJuz = fs.readdirSync("juz/").sort((a, b) => a.slice(0, -5) - b.slice(0, -5)).map((v) => {
+  return JSON.parse(fs.readFileSync("juz/" + v));
+});
+
 
 app.get("/", (req, res) => {
   res.render("index", {
@@ -48,19 +52,43 @@ app.get("/", (req, res) => {
     theme: req.theme
   });
 });
+app.get("/juz", (req, res) => {
+  res.render("juz", {
+    listJuz,
+    theme: req.theme
+  });
+});
+app.get("/donasi.png", (req, res) => {
+  res.setHeader("Content-Type", "image/png");
+  res.setHeader("Content-Disposition", `attachment; filename="donasi_${Date.now()}.png"`);
+  res.status(200).send(fs.readFileSync("public/src/qris.png"));
+});
 app.get("/donasi", (req, res) => {
-  // Kalau bisa, tolong jangan ganti yang dibawah
-  // Hargai orang yang membuat kode ini
-  // Boleh ubah kalo kode yang diubah ada banyak
-  res.redirect("https://saweria.co/MuhammadRestu");
+  res.render("donasi", {
+    theme: req.theme
+  });
 });
 app.get("/surah/:no", (req, res, next) => {
   const { no } = req.params;
   if(!/^[0-9]+$/.test(no) || no > 114) return next();
 
-  const data = JSON.parse(fs.readFileSync(`surah/${no}.json`));
+  const data = {
+    id: no,
+    ...JSON.parse(fs.readFileSync(`surah/${no}.json`))
+  };
   res.render("surah", {
     theme: req.theme,
+    data
+  });
+});
+app.get("/juz/:no", (req, res, next) => {
+  const { no } = req.params;
+  if(!/^[0-9]+$/.test(no) || no > 30) return next();
+
+  const data = JSON.parse(fs.readFileSync(`juz/${no}.json`));
+  res.render("surah2", {
+    theme: req.theme,
+    no,
     data
   });
 });
@@ -101,6 +129,20 @@ api.get(["/surah/:no", "/surah/:no/:ayat"], (req, res) => {
 
   if(ayat) res.status(200).send(data.ayah.find(v => v.ayah == ayat));
   else res.status(200).send(data);
+});
+api.get("/juz/:no", (req, res) => {
+  const { no } = req.params;
+  if(!/^[0-9]+$/.test(no)) return res.status(400).send({
+    status: 400,
+    message: "Hanya menerima angka"
+  });
+  if(no > 30) return res.status(400).send({
+    status: 400,
+    message: "Hanya ada 30 juz dalam Al-Qur'an :|"
+  });
+
+  const data = JSON.parse(fs.readFileSync(`juz/${no}.json`));
+  res.status(200).send(data);
 });
 
 // 404 Handle

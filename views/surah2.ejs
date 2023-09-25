@@ -2,10 +2,10 @@
 <html data-bs-theme="<%= theme %>">
   <head>
     <!-- Primary Meta Tags -->
-    <meta name="title" content="Al-Qur'an || <%= data.transliteration %>" />
-    <meta name="description" content="Klik disini untuk membaca surah <%= data.transliteration %> secara online" />
+    <meta name="title" content="Al-Qur'an || Juz <%= no %>" />
+    <meta name="description" content="Klik disini untuk membaca Al-Qur'an Juz <%= no %> secara online" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Al-Qur'an || <%= data.transliteration %></title>
+    <title>Al-Qur'an || Juz <%= no %></title>
 
     <link rel="stylesheet" href="/src/bootstrap.min.css">
     <link rel="stylesheet" href="/src/bootstrap-icons/font/bootstrap-icons.css">
@@ -30,15 +30,15 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://quran.mrestu.my.id/" />
-    <meta property="og:title" content="Al-Qur'an || <%= data.transliteration %>" />
-    <meta property="og:description" content="Klik disini untuk membaca surah <%= data.transliteration %> secara online" />
+    <meta property="og:title" content="Al-Qur'an || Juz <%= no %>" />
+    <meta property="og:description" content="Klik disini untuk membaca Al-Qur'an Juz <%= no %> secara online" />
     <meta property="og:image" content="https://quran.mrestu.my.id/src/al-quran-14969.png" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://quran.mrestu.my.id/" />
-    <meta property="twitter:title" content="Al-Qur'an || <%= data.transliteration %>" />
-    <meta property="twitter:description" content="Klik disini untuk membaca surah <%= data.transliteration %> secara online" />
+    <meta property="twitter:title" content="Al-Qur'an || Juz <%= no %>" />
+    <meta property="twitter:description" content="Klik disini untuk membaca Al-Qur'an Juz <%= no %> secara online" />
     <meta property="twitter:image" content="https://quran.mrestu.my.id/src/al-quran-14969.png" />
 
     <!-- Meta Tags Generated with https://metatags.io -->
@@ -53,9 +53,9 @@
         <button class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#search">
           <i class="bi bi-search"></i>
         </button>
-        <button class="navbar-toggler" type="button" onclick="bookmark(this)">
+        <!--<button class="navbar-toggler" type="button" onclick="bookmark(this)">
           <i class="bi bi-bookmark"></i>
-        </button>
+        </button>-->
         <button class="navbar-toggler" type="button" onclick="location.href = '/';">
           <i class="bi bi-house"></i>
         </button>
@@ -63,31 +63,15 @@
     </nav>
     <br>
     <div class="container">
-      <div><% for(const ayat of data.ayah) { %>
+      <div><% for(const ayat of data) { %>
         <div class="ayat">
-          <h1 class="text-center"><%= ayat.ayah %></h1>
+          <h1 class="text-center"><%= ayat.no %></h1>
           <hr>
           <h3 class="text-end arabic"><%= ayat.arabic %></h3>
           <p><%= ayat.latin.trim() %></p>
-          <p><%- ayat.translation.replace(/([0-9]+\))/g, `<sup class="footnotes" data-bs-toggle="modal" data-bs-target="#footnotes" data-ayat="${ayat.ayah}">$1</sup>`) %></p>
+          <p><%- ayat.translation.replace(/([0-9]+\))/g, "") %></p>
         </div>
         <br><br><% } %>
-      </div>
-      <div class="modal" tabindex="-1" id="footnotes">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title">Catatan kaki</h5>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-              <p id="catatankaki"></p>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
-            </div>
-          </div>
-        </div>
       </div>
       <div class="modal" tabindex="-1" id="search">
         <div class="modal-dialog">
@@ -127,20 +111,6 @@
     <script src="/src/bootstrap.bundle.min.js"></script>
     <script src="/src/jquery.min.js"></script>
     <script>
-      const _ayat = <%- JSON.stringify(data.ayah) %>;
-      if(JSON.parse(localStorage.bookmarks || "[]").some(v => v.latin === "<%= data.latin %>")) {
-        $("button[onclick='bookmark(this)'] > i").attr("class", "bi bi-bookmark-fill");
-      } else {
-        $("button[onclick='bookmark(this)'] > i").attr("class", "bi bi-bookmark");
-      }
-
-      footnotes.addEventListener("show.bs.modal", (e) => {
-        const ayat = event.relatedTarget.getAttribute("data-ayat");
-        const html = _ayat.find(a => a.ayah == ayat).footnotes
-          .replace(/^(\d+\))/g, `<span class="footnotes">$1</span>`);
-
-        catatankaki.innerHTML = html;
-      });
       function search(input) {
         const q = input.value;
         if(!q) {
@@ -167,19 +137,6 @@
         </div>
         <br><br>`;
         $(".container > div:nth-child(1)").html(html);
-      };
-      function bookmark(button) {
-        if(!localStorage.bookmarks) localStorage.bookmarks = "[]";
-
-        let bookmarks = JSON.parse(localStorage.bookmarks);
-        if(bookmarks.some(v => v.latin === "<%= data.latin %>")) {
-          bookmarks = bookmarks.filter(v => v.latin !== "<%= data.latin %>");
-          $(button).find("i").attr("class", "bi bi-bookmark");
-        } else {
-          bookmarks.push(<%- JSON.stringify(data) %>);
-          $(button).find("i").attr("class", "bi bi-bookmark-fill");
-        };
-        localStorage.bookmarks = JSON.stringify(bookmarks);
       };
     </script>
 

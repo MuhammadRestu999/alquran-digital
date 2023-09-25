@@ -59,13 +59,16 @@
               <a class="nav-link active" aria-current="page" href="/">Beranda</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="/juz">Juz</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="/bookmarks">Penanda (Bookmark)</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/asmaulhusna">Asmaul Husna</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/donasi" target="_blank">Donasi</a>
+              <a class="nav-link" href="/donasi">Donasi</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://github.com/MuhammadRestu999/alquran-digital.git" target="_blank">Kode sumber</a>
@@ -87,7 +90,7 @@
       <br><br>
       <div class="input-group flex-nowrap">
         <span class="input-group-text" id="srch"><i class="bi bi-search"></i></span>
-        <input type="search" class="form-control" onchange="search(this.value)" onsearch="search(this.value)" placeholder="Cari surah" aria-label="Cari surah" aria-describedby="srch">
+        <input type="search" class="form-control" onkeyup="search(this.value)" onkeydown="search(this.value)" placeholder="Cari surah" aria-label="Cari surah" aria-describedby="srch">
       </div>
       <div class="overflow-scroll" id="listsurah" style="height: 50vh;"><% for(const i of listSurah) { %>
         <div class="card">
@@ -111,7 +114,7 @@
         q = q
           .toLowerCase()
           .replace(/ /g, "-");
-        const founds = listSurah.filter(surah => surah.latin.toLowerCase().includes(q) || surah.transliteration.toLowerCase().includes(q));
+        const founds = listSurah.filter(surah => surah.latin.replace(/-/g, " ").replace(/‘/g, "'").toLowerCase().includes(q) || surah.transliteration.replace(/-/g, " ").replace(/‘/g, "'").toLowerCase().includes(q));
         let inner = "";
         for(let i of founds) {
           inner += `

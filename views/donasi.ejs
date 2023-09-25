@@ -2,10 +2,10 @@
 <html data-bs-theme="<%= theme %>">
   <head>
     <!-- Primary Meta Tags -->
-    <meta name="title" content="Al-Qur'an" />
-    <meta name="description" content="Situs untuk membaca Al-Qur'an secara online" />
+    <meta name="title" content="Donasi" />
+    <meta name="description" content="Beri kami donasi" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Al-Qur'an || Penanda</title>
+    <title>Donasi</title>
 
     <link rel="stylesheet" href="/src/bootstrap.min.css">
     <link rel="stylesheet" href="/src/bootstrap-icons/font/bootstrap-icons.css">
@@ -30,15 +30,15 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://quran.mrestu.my.id/" />
-    <meta property="og:title" content="Al-Qur'an" />
-    <meta property="og:description" content="Situs untuk membaca Al-Qur'an secara online" />
+    <meta property="og:title" content="Donasi" />
+    <meta property="og:description" content="Beri kami donasi" />
     <meta property="og:image" content="https://quran.mrestu.my.id/src/al-quran-14969.png" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://quran.mrestu.my.id/" />
-    <meta property="twitter:title" content="Al-Qur'an" />
-    <meta property="twitter:description" content="Situs untuk membaca Al-Qur'an secara online" />
+    <meta property="twitter:title" content="Donasi" />
+    <meta property="twitter:description" content="Beri kami donasi" />
     <meta property="twitter:image" content="https://quran.mrestu.my.id/src/al-quran-14969.png" />
 
     <!-- Meta Tags Generated with https://metatags.io -->
@@ -62,13 +62,13 @@
               <a class="nav-link" href="/juz">Juz</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/bookmarks/">Penanda (Bookmark)</a>
+              <a class="nav-link" href="/bookmarks">Penanda (Bookmark)</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/asmaulhusna">Asmaul Husna</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/donasi">Donasi</a>
+              <a class="nav-link active" aria-current="page" href="/donasi">Donasi</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://github.com/MuhammadRestu999/alquran-digital.git" target="_blank">Kode sumber</a>
@@ -85,56 +85,15 @@
     <br>
     <div class="container">
       <div class="text-center">
-        <img src="/src/al-quran-14969.png" class="rounded" alt="Al-Qur'an">
+        <img src="/src/donasi.png" width="200vw" alt="Donasi">
+        <br><br><br>
+        <h1>Scan QR dibawah dengan Dana, OVO, Gopay, Dana, ShopeePay, dan e-money lainnya untuk mengirim donasi:</h1>
+        <img src="/donasi.png" width="250vw" alt="QRIS">
       </div>
-      <br><br>
-      <div class="input-group flex-nowrap">
-        <span class="input-group-text" id="srch"><i class="bi bi-search"></i></span>
-        <input type="search" class="form-control" onkeyup="search(this.value)" onkeydown="search(this.value)" placeholder="Cari bookmark" aria-label="Cari bookmark" aria-describedby="srch">
-      </div>
-      <div class="overflow-scroll" id="listsurah" style="height: 50vh;"></div>
     </div>
     <script src="/src/bootstrap.bundle.min.js"></script>
     <script src="/src/jquery.min.js"></script>
     <script>
-      if(!localStorage.bookmarks) localStorage.bookmarks = "[]";
-      const listSurah = <%- JSON.stringify(listSurah) %>;
-      const bookmarks = JSON.parse(localStorage.bookmarks);
-
-      for(let i of bookmarks) {
-        listsurah.innerHTML += `
-        <div class="card">
-          <a href="/surah/${i.id}">
-            <h1 class="surah">${i.id}</h1>
-            <h2 style="text-align: center;">${i.latin}</h2>
-            <hr>
-            <h4 style="text-align: center;">${i.translation}</h4>
-          </a>
-        </div>`
-      };
-      if(!bookmarks.length) listsurah.innerHTML = `
-        <div class="card">
-          <h1>Belum ada isinya!</h1>
-        </div>`
-
-      function search(q) {
-        q = q
-          .toLowerCase()
-        const founds = bookmarks.filter(surah => surah.latin.replace(/-/g, " ").replace(/‘/g, "'").toLowerCase().includes(q) || surah.transliteration.replace(/-/g, " ").replace(/‘/g, "'").toLowerCase().includes(q));
-        let inner = "";
-        for(let i of founds) {
-          inner += `
-        <div class="card">
-          <a href="/surah/${i.id}">
-            <h1 class="surah">${i.id}</h1>
-            <h2 style="text-align: center;">${i.latin}</h2>
-            <hr>
-            <h4 style="text-align: center;">${i.translation}</h4>
-          </a>
-        </div>`
-        };
-        if(bookmarks.length) listsurah.innerHTML = inner;
-      };
       function switchTheme() {
         let current = document.cookie.split("; ").map(v => v.split("=")).find(v => v[0] == "theme")[1];
         document.cookie = "theme=" + (current === "dark" ? "light" : "dark") + "; max-age=" + (60*60*24*30*12);
@@ -142,14 +101,6 @@
         $('[aria-label="Ubah tema"] > i').attr("class", "bi bi-" + (current === "dark" ? "sun" : "moon"));
         $("html").attr("data-bs-theme", current);
       };
-      $("#listsurah").scroll(function() {
-        if($("#listsurah").scrollTop() >= 5) $("#scrollToTop").fadeIn();
-        else $("#scrollToTop").fadeOut();
-      });
-      $("#scrollToTop").fadeOut();
-      $("#scrollToTop").on("click", function() {
-        $("#listsurah").animate({ scrollTop : 0 }, 500);
-      });
     </script>
 
     <!-- Google tag (gtag.js) -->
