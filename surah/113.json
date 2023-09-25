@@ -1,0 +1,60 @@
+{
+  "arabic": " الفلق",
+  "latin": "Al-Falaq",
+  "transliteration": "Al-Falaq",
+  "translation": "Fajar",
+  "num_ayah": 5,
+  "location": "Madaniyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
+      "latin": "Qul a‘ūżu birabbil-falaq(i).",
+      "translation": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh) ",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مِنْ شَرِّ مَا خَلَقَۙ",
+      "latin": "Min syarri mā khalaq(a).",
+      "translation": "dari kejahatan (makhluk yang) Dia ciptakan,",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+      "latin": "Wa min syarri gāsiqin iżā waqab(a).",
+      "translation": "dari kejahatan malam apabila telah gelap gulita,",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
+      "latin": "Wa min syarrin-naffāṡāti fil-‘uqad(i).",
+      "translation": "dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya),",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
+      "latin": "Wa min syarri ḥāsidin iżā ḥasad(a).",
+      "translation": "dan dari kejahatan orang yang dengki apabila dia dengki.”",
+      "footnotes": null
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "arabic": " الانفطار",
+  "latin": "Al-Infiṭār",
+  "transliteration": "Al-Infitar",
+  "translation": "Terbelah",
+  "num_ayah": 19,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِذَا السَّمَاۤءُ انْفَطَرَتْۙ",
+      "latin": "Iżas-samā'unfaṭarat.",
+      "translation": "Apabila langit terbelah,",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاِذَا الْكَوَاكِبُ انْتَثَرَتْۙ",
+      "latin": "Wa iżal-kawākibuntaṡarat.",
+      "translation": "apabila bintang-bintang jatuh berserakan, ",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
+      "latin": "Wa iżal-biḥāru fujjirat.",
+      "translation": "apabila lautan diluapkan, ",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاِذَا الْقُبُوْرُ بُعْثِرَتْۙ",
+      "latin": "Wa iżal-qubūru bu‘ṡirat.",
+      "translation": "dan apabila kuburan-kuburan dibongkar,",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَاَخَّرَتْۗ",
+      "latin": "‘Alimat nafsum mā qaddamat wa akhkharat.",
+      "translation": "setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(-nya).",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "يٰٓاَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيْمِۙ",
+      "latin": "Yā ayyuhal-insānu mā garraka birabbikal-karīm(i).",
+      "translation": "Wahai manusia, apakah yang telah memperdayakanmu (berbuat durhaka) terhadap Tuhanmu Yang Maha Mulia,",
+      "footnotes": null
+    },
+    {
+      "ayah": 7,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "الَّذِيْ خَلَقَكَ فَسَوّٰىكَ فَعَدَلَكَۙ",
+      "latin": "Allażī khalaqaka fa sawwāka fa ‘adalak(a).",
+      "translation": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)-mu seimbang?",
+      "footnotes": null
+    },
+    {
+      "ayah": 8,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فِيْٓ اَيِّ صُوْرَةٍ مَّا شَاۤءَ رَكَّبَكَۗ",
+      "latin": "Fī ayyi ṣūratim mā syā'a rakkabak(a).",
+      "translation": "Dalam bentuk apa saja yang dikehendaki, Dia menyusun (tubuh)-mu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 9,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كَلَّا بَلْ تُكَذِّبُوْنَ بِالدِّيْنِۙ",
+      "latin": "Kallā bal tukażżibūna bid-dīn(i).",
+      "translation": "Jangan sekali-kali begitu! Bahkan, kamu mendustakan hari Pembalasan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 10,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاِنَّ عَلَيْكُمْ لَحٰفِظِيْنَۙ",
+      "latin": "Wa inna ‘alaikum laḥāfiẓīn(a).",
+      "translation": "Sesungguhnya bagi kamu ada (malaikat-malaikat) pengawas",
+      "footnotes": null
+    },
+    {
+      "ayah": 11,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كِرَامًا كٰتِبِيْنَۙ",
+      "latin": "Kirāman kātibīn(a).",
+      "translation": "yang mulia (di sisi Allah) dan mencatat (amal perbuatanmu).",
+      "footnotes": null
+    },
+    {
+      "ayah": 12,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "يَعْلَمُوْنَ مَا تَفْعَلُوْنَ",
+      "latin": "Ya‘lamūna mā taf‘alūn(a).",
+      "translation": "Mereka mengetahui apa yang kamu kerjakan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 13,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ",
+      "latin": "Innal-abrāra lafī na‘īm(in).",
+      "translation": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 14,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَّاِنَّ الْفُجَّارَ لَفِيْ جَحِيْمٍ",
+      "latin": "Wa innal-fujjāra lafī jaḥīm(in).",
+      "translation": "Sesungguhnya orang-orang yang durhaka benar-benar berada dalam (neraka) Jahim.",
+      "footnotes": null
+    },
+    {
+      "ayah": 15,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "يَصْلَوْنَهَا يَوْمَ الدِّيْنِ",
+      "latin": "Yaṣlaunahā yaumad-dīn(i).",
+      "translation": "Mereka memasukinya pada hari Pembalasan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 16,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَا هُمْ عَنْهَا بِغَاۤىِٕبِيْنَۗ",
+      "latin": "Wa mā hum ‘anhā bigā'ibīn(a). ",
+      "translation": "Mereka tidak mungkin keluar dari (neraka) itu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 17,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۙ",
+      "latin": "Wa mā adrāka mā yaumud-dīn(i).",
+      "translation": "Tahukah engkau apakah hari Pembalasan itu? ",
+      "footnotes": null
+    },
+    {
+      "ayah": 18,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "ثُمَّ مَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۗ",
+      "latin": "Ṡumma mā adrāka mā yaumud-dīn(i).",
+      "translation": "Kemudian, tahukah engkau apakah hari Pembalasan itu? ",
+      "footnotes": null
+    },
+    {
+      "ayah": 19,
+      "quarter_hizb": 59.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۗوَالْاَمْرُ يَوْمَىِٕذٍ لِّلّٰهِ ࣖ",
+      "latin": "Yauma lā tamliku nafsul linafsin syai'ā(n), wal-amru yauma'iżil lillāh(i).",
+      "translation": "(Itulah) hari (ketika) seseorang tidak berdaya (menolong) orang lain sedikit pun. Segala urusan pada hari itu adalah milik Allah.",
+      "footnotes": null
+    }
+  ]
+}

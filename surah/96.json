@@ -1,0 +1,200 @@
+{
+  "arabic": " العلق",
+  "latin": "Al-‘Alaq",
+  "transliteration": "Al-‘Alaq",
+  "translation": "Segumpal Darah",
+  "num_ayah": 19,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+      "latin": "Iqra' bismi rabbikal-lażī khalaq(a).",
+      "translation": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan!",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+      "latin": "Khalaqal-insāna min ‘alaq(in).",
+      "translation": "Dia menciptakan manusia dari segumpal darah.",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+      "latin": "Iqra' wa rabbukal-akram(u).",
+      "translation": "Bacalah! Tuhanmulah Yang Maha Mulia,",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+      "latin": "Allażī ‘allama bil-qalam(i).",
+      "translation": "yang mengajar (manusia) dengan pena.",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+      "latin": "‘Allamal-insāna mā lam ya‘lam.",
+      "translation": "Dia mengajarkan manusia apa yang tidak diketahuinya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+      "latin": "Kallā innal-insāna layaṭgā.",
+      "translation": "Sekali-kali tidak! Sesungguhnya manusia itu benar-benar melampaui batas",
+      "footnotes": null
+    },
+    {
+      "ayah": 7,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+      "latin": "Ar ra'āhustagnā.",
+      "translation": "ketika melihat dirinya serba berkecukupan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 8,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+      "latin": "Inna ilā rabbikar-ruj‘ā.",
+      "translation": "Sesungguhnya hanya kepada Tuhanmulah tempat kembali(-mu).",
+      "footnotes": null
+    },
+    {
+      "ayah": 9,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+      "latin": "Ara'aital-lażī yanhā.",
+      "translation": "Tahukah kamu tentang orang yang melarang",
+      "footnotes": null
+    },
+    {
+      "ayah": 10,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "عَبْدًا اِذَا صَلّٰىۗ",
+      "latin": "‘Abdan iżā ṣallā.",
+      "translation": "seorang hamba ketika dia melaksanakan salat?",
+      "footnotes": null
+    },
+    {
+      "ayah": 11,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+      "latin": "Ara'aita in kāna ‘alal-hudā.",
+      "translation": "Bagaimana pendapatmu kalau terbukti dia berada di dalam kebenaran",
+      "footnotes": null
+    },
+    {
+      "ayah": 12,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+      "latin": "Au amara bit-taqwā. ",
+      "translation": "atau dia menyuruh bertakwa (kepada Allah)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 13,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+      "latin": "Ara'aita in każżaba wa tawallā.",
+      "translation": "Bagaimana pendapatmu kalau dia mendustakan (kebenaran) dan berpaling (dari keimanan)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 14,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+      "latin": "Alam ya‘lam bi'annallāha yarā.",
+      "translation": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 15,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+      "latin": "Kallā la'il lam yantah(i), lanasfa‘am bin-nāṣiyah(ti).",
+      "translation": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian), niscaya Kami tarik ubun-ubunnya (ke dalam neraka),",
+      "footnotes": null
+    },
+    {
+      "ayah": 16,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+      "latin": "Nāṣiyatin kāżibatin khāṭi'ah(tin).",
+      "translation": "(yaitu) ubun-ubun orang yang mendustakan (kebenaran) dan durhaka.",
+      "footnotes": null
+    },
+    {
+      "ayah": 17,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَلْيَدْعُ نَادِيَهٗۙ",
+      "latin": "Falyad‘u nādiyah(ū).",
+      "translation": "Biarlah dia memanggil golongannya (untuk menolongnya).",
+      "footnotes": null
+    },
+    {
+      "ayah": 18,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "سَنَدْعُ الزَّبَانِيَةَۙ",
+      "latin": "Sanad‘uz-zabāniyah(ta).",
+      "translation": "Kelak Kami akan memanggil (Malaikat) Zabaniah (penyiksa orang-orang yang berdosa).759)",
+      "footnotes": "759) Zabaniah adalah malaikat yang bertugas menyiksa orang-orang yang berdosa."
+    },
+    {
+      "ayah": 19,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+      "latin": "Kallā, lā tuṭi‘hu wasjud waqtarib.",
+      "translation": "Sekali-kali tidak! Janganlah patuh kepadanya, (tetapi) sujud dan mendekatlah (kepada Allah).",
+      "footnotes": null
+    }
+  ]
+}

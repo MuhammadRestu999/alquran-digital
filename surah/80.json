@@ -1,0 +1,430 @@
+{
+  "arabic": " عبس",
+  "latin": "‘Abasa",
+  "transliteration": "‘Abasa",
+  "translation": "Berwajah Masam",
+  "num_ayah": 42,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "عَبَسَ وَتَوَلّٰىٓۙ",
+      "latin": "‘Abasa wa tawallā.",
+      "translation": "Dia (Nabi Muhammad) berwajah masam dan berpaling",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَنْ جَاۤءَهُ الْاَعْمٰىۗ",
+      "latin": "An jā'ahul-a‘mā.",
+      "translation": "karena seorang tunanetra (Abdullah bin Ummi Maktum) telah datang kepadanya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَا يُدْرِيْكَ لَعَلَّهٗ يَزَّكّٰىٓۙ",
+      "latin": "Wa mā yudrīka la‘allahū yazzakkā.",
+      "translation": "Tahukah engkau (Nabi Muhammad) boleh jadi dia ingin menyucikan dirinya (dari dosa)",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرٰىۗ",
+      "latin": "Au yażżakkaru fatanfa‘ahuż-żikrā.",
+      "translation": "atau dia (ingin) mendapatkan pengajaran sehingga pengajaran itu bermanfaat baginya?",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَمَّا مَنِ اسْتَغْنٰىۙ",
+      "latin": "Ammā manistagnā.",
+      "translation": "Adapun orang yang merasa dirinya serba cukup (para pembesar Quraisy),",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَاَنْتَ لَهٗ تَصَدّٰىۗ",
+      "latin": "Fa anta lahū taṣaddā.",
+      "translation": "engkau (Nabi Muhammad) memberi perhatian kepadanya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 7,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَا عَلَيْكَ اَلَّا يَزَّكّٰىۗ",
+      "latin": "Wa mā ‘alaika allā yazzakkā.",
+      "translation": "Padahal, tidak ada (cela) atasmu kalau dia tidak menyucikan diri (beriman).",
+      "footnotes": null
+    },
+    {
+      "ayah": 8,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاَمَّا مَنْ جَاۤءَكَ يَسْعٰىۙ",
+      "latin": "Wa ammā man jā'aka yas‘ā.",
+      "translation": "Adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran),",
+      "footnotes": null
+    },
+    {
+      "ayah": 9,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَهُوَ يَخْشٰىۙ",
+      "latin": "Wa huwa yakhsyā.",
+      "translation": "sedangkan dia takut (kepada Allah),",
+      "footnotes": null
+    },
+    {
+      "ayah": 10,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَاَنْتَ عَنْهُ تَلَهّٰىۚ",
+      "latin": "Fa anta ‘anhu talahhā.",
+      "translation": "malah engkau (Nabi Muhammad) abaikan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 11,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كَلَّآ اِنَّهَا تَذْكِرَةٌ ۚ",
+      "latin": "Kallā innahā tażkirah(tun).",
+      "translation": "Sekali-kali jangan (begitu)! Sesungguhnya (ajaran Allah) itu merupakan peringatan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 12,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَمَنْ شَاۤءَ ذَكَرَهٗ ۘ",
+      "latin": "Faman syā'a żakarah(ū).",
+      "translation": "Siapa yang menghendaki tentulah akan memperhatikannya",
+      "footnotes": null
+    },
+    {
+      "ayah": 13,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فِيْ صُحُفٍ مُّكَرَّمَةٍۙ",
+      "latin": "Fī ṣuḥufim mukarrmah(tin).",
+      "translation": "di dalam suhuf yang dimuliakan (di sisi Allah),",
+      "footnotes": null
+    },
+    {
+      "ayah": 14,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مَّرْفُوْعَةٍ مُّطَهَّرَةٍ ۢ ۙ",
+      "latin": "Marfū‘atim muṭahharah(tin).",
+      "translation": "yang ditinggikan (kedudukannya) lagi disucikan",
+      "footnotes": null
+    },
+    {
+      "ayah": 15,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "بِاَيْدِيْ سَفَرَةٍۙ",
+      "latin": "Bi'aidī safarah(tin).",
+      "translation": "di tangan para utusan (malaikat)",
+      "footnotes": null
+    },
+    {
+      "ayah": 16,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كِرَامٍۢ بَرَرَةٍۗ",
+      "latin": "Kirāmim bararah(tin).",
+      "translation": "yang mulia lagi berbudi.",
+      "footnotes": null
+    },
+    {
+      "ayah": 17,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "قُتِلَ الْاِنْسَانُ مَآ اَكْفَرَهٗۗ",
+      "latin": "Qutilal-insānu mā akfarah(ū).",
+      "translation": "Celakalah manusia! Alangkah kufur dia!",
+      "footnotes": null
+    },
+    {
+      "ayah": 18,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مِنْ اَيِّ شَيْءٍ خَلَقَهٗۗ",
+      "latin": "Min ayyi syai'in khalaqah(ū).",
+      "translation": "Dari apakah Dia menciptakannya?",
+      "footnotes": null
+    },
+    {
+      "ayah": 19,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مِنْ نُّطْفَةٍۗ خَلَقَهٗ فَقَدَّرَهٗۗ",
+      "latin": "Min nuṭfah(tin), khalaqahū fa qaddarah(ū).",
+      "translation": "Dia menciptakannya dari setetes mani, lalu menentukan (takdir)-nya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 20,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "ثُمَّ السَّبِيْلَ يَسَّرَهٗۙ",
+      "latin": "Ṡummas-sabīla yassarah(ū).",
+      "translation": "Kemudian, jalannya Dia mudahkan.746)",
+      "footnotes": "746) Maksudnya adalah memudahkan kelahirannya atau mempermudah baginya untuk menempuh jalan yang benar atau jalan yang sesat."
+    },
+    {
+      "ayah": 21,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "ثُمَّ اَمَاتَهٗ فَاَقْبَرَهٗۙ",
+      "latin": "Ṡumma amātahū fa aqbarah(ū).",
+      "translation": "Kemudian, Dia mematikannya lalu menguburkannya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 22,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "ثُمَّ اِذَا شَاۤءَ اَنْشَرَهٗۗ",
+      "latin": "Ṡumma iżā syā'a ansyarah(ū).",
+      "translation": "Kemudian, jika menghendaki, Dia membangkitkannya kembali.",
+      "footnotes": null
+    },
+    {
+      "ayah": 23,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهٗۗ",
+      "latin": "Kallā lammā yaqḍi mā amarah(ū).",
+      "translation": "Sekali-kali jangan (begitu)! Dia (manusia) itu belum melaksanakan apa yang Dia (Allah) perintahkan kepadanya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 24,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَلْيَنْظُرِ الْاِنْسَانُ اِلٰى طَعَامِهٖٓ ۙ ",
+      "latin": "Falyanẓuril-insānu ilā ṭa‘āmih(ī).",
+      "translation": " Maka, hendaklah manusia itu memperhatikan makanannya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 25,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَنَّا صَبَبْنَا الْمَاۤءَ صَبًّاۙ",
+      "latin": "Annā ṣababnal-mā'a ṣabbā(n).",
+      "translation": "Sesungguhnya Kami telah mencurahkan air (dari langit) dengan berlimpah. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 26,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "ثُمَّ شَقَقْنَا الْاَرْضَ شَقًّاۙ",
+      "latin": "Ṡumma syaqaqnal-arḍa syaqqā(n).",
+      "translation": "Kemudian, Kami belah bumi dengan sebaik-baiknya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 27,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَاَنْۢبَتْنَا فِيْهَا حَبًّاۙ",
+      "latin": "Fa'ambatnā fīhā ḥabbā(n).",
+      "translation": "Lalu, Kami tumbuhkan padanya biji-bijian,",
+      "footnotes": null
+    },
+    {
+      "ayah": 28,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَّعِنَبًا وَّقَضْبًاۙ",
+      "latin": "Wa ‘inabaw wa qaḍbā(n).",
+      "translation": "anggur, sayur-sayuran,",
+      "footnotes": null
+    },
+    {
+      "ayah": 29,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَّزَيْتُوْنًا وَّنَخْلًاۙ",
+      "latin": "Wa zaitūnaw wa nakhlā(n).",
+      "translation": "zaitun, pohon kurma,",
+      "footnotes": null
+    },
+    {
+      "ayah": 30,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَّحَدَاۤىِٕقَ غُلْبًا",
+      "latin": "Wa ḥadā'iqa gulbā(n).",
+      "translation": "kebun-kebun (yang) rindang,",
+      "footnotes": null
+    },
+    {
+      "ayah": 31,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَفَاكِهَةً وَّاَبًّا",
+      "latin": "Wa fākihataw wa abbā(n).",
+      "translation": "buah-buahan, dan rerumputan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 32,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مَتَاعًا لَّكُمْ وَلِاَنْعَامِكُمْۗ",
+      "latin": "Matā‘al lakum wa li'an‘āmikum.",
+      "translation": "(Semua itu disediakan) untuk kesenanganmu dan hewan-hewan ternakmu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 33,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَاِذَا جَاۤءَتِ الصَّاۤخَّةُ ۖ",
+      "latin": "Fa iżā jā'atiṣ-ṣākhkhah(tu).",
+      "translation": "Maka, apabila datang suara yang memekakkan (dari tiupan sangkakala),",
+      "footnotes": null
+    },
+    {
+      "ayah": 34,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخِيْهِۙ",
+      "latin": "Yauma yafirrul-mar'u min akhīh(i).",
+      "translation": "pada hari itu manusia lari dari saudaranya,",
+      "footnotes": null
+    },
+    {
+      "ayah": 35,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاُمِّهٖ وَاَبِيْهِۙ",
+      "latin": "Wa ummihī wa abīh(i).",
+      "translation": "(dari) ibu dan bapaknya,",
+      "footnotes": null
+    },
+    {
+      "ayah": 36,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَصَاحِبَتِهٖ وَبَنِيْهِۗ",
+      "latin": "Wa ṣāḥibatihī wa banīh(i).",
+      "translation": "serta (dari) istri dan anak-anaknya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 37,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَىِٕذٍ شَأْنٌ يُّغْنِيْهِۗ",
+      "latin": "Likullimri'im minhum yauma'iżin sya'nuy yugnīh(i).",
+      "translation": "Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 38,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وُجُوْهٌ يَّوْمَىِٕذٍ مُّسْفِرَةٌۙ",
+      "latin": "Wujūhuy yauma'iżim musfirah(tun).",
+      "translation": "Pada hari itu ada wajah-wajah yang berseri-seri,",
+      "footnotes": null
+    },
+    {
+      "ayah": 39,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ ۚ",
+      "latin": "Ḍāḥikatum mustabsyirah(tun).",
+      "translation": "tertawa lagi gembira ria.",
+      "footnotes": null
+    },
+    {
+      "ayah": 40,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَوُجُوْهٌ يَّوْمَىِٕذٍ عَلَيْهَا غَبَرَةٌۙ",
+      "latin": "Wa wujūhuy yauma'iżin ‘alaihā gabarah(tun).",
+      "translation": "Pada hari itu ada (pula) wajah-wajah yang tertutup debu (suram)",
+      "footnotes": null
+    },
+    {
+      "ayah": 41,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "تَرْهَقُهَا قَتَرَةٌ ۗ",
+      "latin": "Tarhaquhā qatarah(tun).",
+      "translation": "dan tertutup oleh kegelapan (ditimpa kehinaan dan kesusahan).",
+      "footnotes": null
+    },
+    {
+      "ayah": 42,
+      "quarter_hizb": 59.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اُولٰۤىِٕكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ ࣖ",
+      "latin": "Ulā'ika humul-kafaratul-fajarah(tu).",
+      "translation": "Mereka itulah orang-orang kafir lagi para pendurhaka.",
+      "footnotes": null
+    }
+  ]
+}

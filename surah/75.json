@@ -1,0 +1,410 @@
+{
+  "arabic": " القيٰمة",
+  "latin": "Al-Qiyāmah",
+  "transliteration": "Al-Qiyamah",
+  "translation": "Hari Kiamat",
+  "num_ayah": 40,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِۙ",
+      "latin": "Lā uqsimu biyaumil-qiyāmah(ti).",
+      "translation": "Aku bersumpah demi hari Kiamat.",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ ",
+      "latin": "Wa lā uqsimu bin nafsil-lawwāmah(ti).",
+      "translation": "Aku bersumpah demi jiwa yang sangat menyesali (dirinya sendiri).",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اَيَحْسَبُ الْاِنْسَانُ اَلَّنْ نَّجْمَعَ عِظَامَهٗ ۗ",
+      "latin": "Ayaḥsabul-insānu allan najma‘a ‘iẓāmah(ū).",
+      "translation": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "بَلٰى قٰدِرِيْنَ عَلٰٓى اَنْ نُّسَوِّيَ بَنَانَهٗ ",
+      "latin": "Balā qādirīna ‘alā an nusawwiya banānah(ū).",
+      "translation": "Tentu, (bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna.",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗۚ",
+      "latin": "Bal yurīdul-insānu liyafjura amāmah(ū).",
+      "translation": "Akan tetapi, manusia hendak berbuat maksiat terus-menerus.",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيٰمَةِۗ",
+      "latin": "Yas'alu ayyāna yaumul-qiyāmah(ti).",
+      "translation": "Dia bertanya, “Kapankah hari Kiamat itu?”",
+      "footnotes": null
+    },
+    {
+      "ayah": 7,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "فَاِذَا بَرِقَ الْبَصَرُۙ",
+      "latin": "Fa iżā bariqal-baṣar(u).",
+      "translation": "Apabila mata terbelalak (ketakutan),",
+      "footnotes": null
+    },
+    {
+      "ayah": 8,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَخَسَفَ الْقَمَرُۙ",
+      "latin": "Wa khasafal-qamar(u).",
+      "translation": "bulan pun telah hilang cahayanya,",
+      "footnotes": null
+    },
+    {
+      "ayah": 9,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُۙ",
+      "latin": "Wa jumi‘asy-syamsu wal-qamar(u).",
+      "translation": "serta matahari dan bulan dikumpulkan,",
+      "footnotes": null
+    },
+    {
+      "ayah": 10,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "يَقُوْلُ الْاِنْسَانُ يَوْمَىِٕذٍ اَيْنَ الْمَفَرُّۚ",
+      "latin": "Yaqūlul-insānu yauma'iżin ainal-mafarr(u).",
+      "translation": "pada hari itu manusia berkata, “Ke mana tempat lari?”",
+      "footnotes": null
+    },
+    {
+      "ayah": 11,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "كَلَّا لَا وَزَرَۗ",
+      "latin": "Kallā lā wazar(a).",
+      "translation": "Sekali-kali tidak! Tidak ada tempat berlindung.",
+      "footnotes": null
+    },
+    {
+      "ayah": 12,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمُسْتَقَرُّۗ",
+      "latin": "Ilā rabbika yauma'iżinil-mustaqarr(u).",
+      "translation": "(Hanya) kepada Tuhanmu tempat kembali pada hari itu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 13,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَۗ",
+      "latin": "Yunabba'ul-insānu yauma'iżim bimā qaddama wa akhkhar(a).",
+      "translation": "Pada hari itu diberitakan kepada manusia apa yang telah dia kerjakan dan apa yang telah dia lalaikan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 14,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "بَلِ الْاِنْسَانُ عَلٰى نَفْسِهٖ بَصِيْرَةٌۙ",
+      "latin": "Balil-insānu ‘alā nafsihī baṣīrah(tun).",
+      "translation": "Bahkan, manusia menjadi saksi atas dirinya sendiri735)",
+      "footnotes": "735) Anggota badan manusia menjadi saksi atas perbuatan yang telah mereka lakukan, seperti tersebut dalam surah an-Nūr (24): 24."
+    },
+    {
+      "ayah": 15,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَّلَوْ اَلْقٰى مَعَاذِيْرَهٗۗ",
+      "latin": "Wa lau alqā ma‘āżīrah(ū).",
+      "translation": "walaupun dia mengemukakan alasan-alasan(-nya).",
+      "footnotes": null
+    },
+    {
+      "ayah": 16,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "لَا تُحَرِّكْ بِهٖ لِسَانَكَ لِتَعْجَلَ بِهٖۗ",
+      "latin": "Lā tuḥarrik bihī lisānaka lita‘jala bih(ī).",
+      "translation": "Jangan engkau (Nabi Muhammad) gerakkan lidahmu (untuk membaca Al-Qur’an) karena hendak tergesa-gesa (menguasai)-nya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 17,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اِنَّ عَلَيْنَا جَمْعَهٗ وَقُرْاٰنَهٗ ۚ",
+      "latin": "Inna ‘alainā jam‘ahū wa qur'ānah(ū).",
+      "translation": "Sesungguhnya tugas Kamilah untuk mengumpulkan (dalam hatimu) dan membacakannya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 18,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "فَاِذَا قَرَأْنٰهُ فَاتَّبِعْ قُرْاٰنَهٗ ۚ",
+      "latin": "Fa iżā qara'nāhu fattabi‘ qur'ānah(ū).",
+      "translation": "Maka, apabila Kami telah selesai membacakannya, ikutilah bacaannya itu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 19,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهٗ ۗ",
+      "latin": "Ṡumma inna ‘alainā bayānah(ū).",
+      "translation": "Kemudian, sesungguhnya tugas Kami (pula)-lah (untuk) menjelaskannya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 20,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "كَلَّا بَلْ تُحِبُّوْنَ الْعَاجِلَةَۙ",
+      "latin": "Kallā bal tuḥibbūnal-‘ājilah(ta).",
+      "translation": "Sekali-kali tidak! Bahkan, kamu mencintai kehidupan dunia, ",
+      "footnotes": null
+    },
+    {
+      "ayah": 21,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَتَذَرُوْنَ الْاٰخِرَةَۗ",
+      "latin": "Wa tażarūnal-‘ākhirah(ta).",
+      "translation": "dan mengabaikan (kehidupan) akhirat. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 22,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌۙ",
+      "latin": "Wujūhuy yauma'iżin nāḍirah(tun).",
+      "translation": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri",
+      "footnotes": null
+    },
+    {
+      "ayah": 23,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اِلٰى رَبِّهَا نَاظِرَةٌ ۚ",
+      "latin": "Ilā rabbihā nāẓirah(tun).",
+      "translation": "(karena) memandang Tuhannya. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 24,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَوُجُوْهٌ يَّوْمَىِٕذٍۢ بَاسِرَةٌۙ",
+      "latin": "Wa wujūhuy yauma'iżim bāsirah(tun). ",
+      "translation": "Wajah-wajah (orang kafir) pada hari itu muram",
+      "footnotes": null
+    },
+    {
+      "ayah": 25,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "تَظُنُّ اَنْ يُّفْعَلَ بِهَا فَاقِرَةٌ ۗ",
+      "latin": "Taẓunnu ay yuf‘ala bihā fāqirah(tun).",
+      "translation": "(karena) mereka yakin akan ditimpakan kepadanya malapetaka yang sangat dahsyat.",
+      "footnotes": null
+    },
+    {
+      "ayah": 26,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "كَلَّآ اِذَا بَلَغَتِ التَّرَاقِيَۙ",
+      "latin": "Kallā iżā balagatit-tarāqiy(a).",
+      "translation": "Sekali-kali tidak! Apabila (nyawa) telah sampai di kerongkongan,",
+      "footnotes": null
+    },
+    {
+      "ayah": 27,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَقِيْلَ مَنْ ۜرَاقٍۙ",
+      "latin": "Wa qīla man…rāq(in).",
+      "translation": "dan dikatakan (kepadanya), “Siapa yang (dapat) menyembuhkan?”",
+      "footnotes": null
+    },
+    {
+      "ayah": 28,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَّظَنَّ اَنَّهُ الْفِرَاقُۙ",
+      "latin": "Wa ẓanna annahul-firāq(u).",
+      "translation": "Dia pun yakin bahwa itulah waktu perpisahan (dengan dunia), ",
+      "footnotes": null
+    },
+    {
+      "ayah": 29,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِۙ",
+      "latin": "Waltaffatis-sāqu bis-sāq(i).",
+      "translation": "dan bertautlah betis (kiri) dengan betis (kanan).736)",
+      "footnotes": "736) Hal itu menggambarkan hebatnya penderitaan pada saat akan mati serta ketakutan akan meninggalkan dunia dan menghadapi akhirat."
+    },
+    {
+      "ayah": 30,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمَسَاقُ ۗ ࣖ",
+      "latin": "Ilā rabbika yauma'iżinil-masāq(u).",
+      "translation": "Kepada Tuhanmulah pada hari itu (manusia) digiring.",
+      "footnotes": null
+    },
+    {
+      "ayah": 31,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "فَلَا صَدَّقَ وَلَا صَلّٰىۙ",
+      "latin": "Falā ṣaddaqa wa lā ṣallā.",
+      "translation": "Dia tidak membenarkan (Al-Qur’an dan Rasul) dan tidak melaksanakan salat. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 32,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "وَلٰكِنْ كَذَّبَ وَتَوَلّٰىۙ",
+      "latin": "Wa lākin każżaba wa tawallā.",
+      "translation": "Akan tetapi, dia mendustakan (Al-Qur’an) dan berpaling (dari kebenaran). ",
+      "footnotes": null
+    },
+    {
+      "ayah": 33,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "ثُمَّ ذَهَبَ اِلٰٓى اَهْلِهٖ يَتَمَطّٰىۗ",
+      "latin": "Ṡumma żahaba ilā ahlihī yatamaṭṭā.",
+      "translation": "Kemudian, dia pergi kepada keluarganya dengan menyombongkan diri.",
+      "footnotes": null
+    },
+    {
+      "ayah": 34,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اَوْلٰى لَكَ فَاَوْلٰىۙ",
+      "latin": "Aulā laka fa'aulā.",
+      "translation": "Celakalah kamu! Maka, celakalah! ",
+      "footnotes": null
+    },
+    {
+      "ayah": 35,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "ثُمَّ اَوْلٰى لَكَ فَاَوْلٰىۗ",
+      "latin": "Ṡumma aulā laka fa'aulā.",
+      "translation": "Kemudian, celakalah kamu! Maka, celakalah! ",
+      "footnotes": null
+    },
+    {
+      "ayah": 36,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اَيَحْسَبُ الْاِنْسَانُ اَنْ يُّتْرَكَ سُدًىۗ",
+      "latin": "Ayaḥsabul-insānu ay yutraka sudā(n).",
+      "translation": "Apakah manusia mengira akan dibiarkan begitu saja (tanpa pertanggungjawaban)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 37,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اَلَمْ يَكُ نُطْفَةً مِّنْ مَّنِيٍّ يُّمْنٰى ",
+      "latin": "Alam yaku nuṭfatam mim maniyyiy yumnā.",
+      "translation": "Bukankah dia dahulu setetes mani yang ditumpahkan (ke dalam rahim)? ",
+      "footnotes": null
+    },
+    {
+      "ayah": 38,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ",
+      "latin": "Ṡumma kāna ‘alaqatan fa khalaqa fa sawwā.",
+      "translation": "Kemudian, (mani itu) menjadi sesuatu yang melekat, lalu Dia menciptakan dan menyempurnakannya. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 39,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۗ",
+      "latin": "Fa ja‘ala minhuz-zaujainiż-żakara wal-unṡā.",
+      "translation": "Lalu, Dia menjadikan darinya sepasang laki-laki dan perempuan. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 40,
+      "quarter_hizb": 58.5,
+      "juz": 29,
+      "manzil": 7,
+      "arabic": "اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓى اَنْ يُّحْيِ َۧ الْمَوْتٰى ࣖ",
+      "latin": "Alaisa żālika  biqādirin ‘alā ay yuḥyiyal-mautā.",
+      "translation": "Bukankah (Allah) itu kuasa (pula) menghidupkan orang mati?",
+      "footnotes": null
+    }
+  ]
+}

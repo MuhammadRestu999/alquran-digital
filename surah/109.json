@@ -1,0 +1,70 @@
+{
+  "arabic": " الكٰفرون",
+  "latin": "Al-Kāfirūn",
+  "transliteration": "Al-Kafirun",
+  "translation": "Orang-Orang kafir",
+  "num_ayah": 6,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
+      "latin": "Qul yā ayyuhal-kāfirūn(a).",
+      "translation": "Katakanlah (Nabi Muhammad), “Wahai orang-orang kafir,",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
+      "latin": "Lā a‘budu mā ta‘budūn(a).",
+      "translation": "aku tidak akan menyembah apa yang kamu sembah.",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
+      "latin": "Wa lā antum ‘ābidūna mā a‘bud(u).",
+      "translation": "Kamu juga bukan penyembah apa yang aku sembah.",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
+      "latin": "Wa lā ana ‘ābidum mā ‘abattum.",
+      "translation": "Aku juga tidak pernah menjadi penyembah apa yang kamu sembah.",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
+      "latin": "Wa lā antum ‘ābidūna mā a‘bud(u).",
+      "translation": "Kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ",
+      "latin": "Lakum dīnukum wa liya dīn(i).",
+      "translation": "Untukmu agamamu dan untukku agamaku.”",
+      "footnotes": null
+    }
+  ]
+}

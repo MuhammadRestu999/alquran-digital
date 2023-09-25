@@ -1,0 +1,790 @@
+{
+  "arabic": "الرّحمٰن",
+  "latin": "Ar-Raḥmān",
+  "transliteration": "Ar-Rahman",
+  "translation": "Yang Maha Pengasih",
+  "num_ayah": 78,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "اَلرَّحْمٰنُۙ  ",
+      "latin": "Ar-raḥmān(u).",
+      "translation": " (Allah) Yang Maha Pengasih,",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "عَلَّمَ الْقُرْاٰنَۗ ",
+      "latin": "‘Allamal-qur'ān(a).",
+      "translation": " telah mengajarkan Al-Qur’an.",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "خَلَقَ الْاِنْسَانَۙ ",
+      "latin": "Khalaqal-insān(a).",
+      "translation": "Dia menciptakan manusia.",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "عَلَّمَهُ الْبَيَانَ ",
+      "latin": "‘Allamahul-bayān(a).",
+      "translation": "Dia mengajarinya pandai menjelaskan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۙ ",
+      "latin": "Asy-syamsu wal-qamaru biḥusbān(in).",
+      "translation": " Matahari dan bulan (beredar) sesuai dengan perhitungan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَّالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ ",
+      "latin": "Wan-najmu wasy-syajaru yasjudān(i).",
+      "translation": " Tetumbuhan dan pepohonan tunduk (kepada-Nya).",
+      "footnotes": null
+    },
+    {
+      "ayah": 7,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَالسَّمَاۤءَ رَفَعَهَا وَوَضَعَ الْمِيْزَانَۙ  ",
+      "latin": "Was-samā'a rafa‘ahā wa waḍa‘al-mīzān(a).",
+      "translation": "Langit telah Dia tinggikan dan Dia telah menciptakan timbangan (keadilan dan keseimbangan)",
+      "footnotes": null
+    },
+    {
+      "ayah": 8,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "اَلَّا تَطْغَوْا فِى الْمِيْزَانِ ",
+      "latin": "Allā taṭgau fil-mīzān(i).",
+      "translation": " agar kamu tidak melampaui batas dalam timbangan itu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 9,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَاَقِيْمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيْزَانَ ",
+      "latin": "Wa aqīmul-wazna  bil-qisṭi wa lā tukhsirul-mīzān(a).",
+      "translation": "Tegakkanlah timbangan itu dengan adil dan janganlah kamu mengurangi timbangan itu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 10,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ  ",
+      "latin": "Wal-arḍa waḍa‘ahā lil-anām(i). ",
+      "translation": " Bumi telah Dia bentangkan untuk makhluk(-Nya).",
+      "footnotes": null
+    },
+    {
+      "ayah": 11,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فِيْهَا فَاكِهَةٌ وَّالنَّخْلُ ذَاتُ الْاَكْمَامِۖ  ",
+      "latin": "Fīhā fākihatuw wan-nakhlu żātul-akmām(i).",
+      "translation": "Padanya terdapat buah-buahan dan pohon kurma yang mempunyai kelopak mayang,",
+      "footnotes": null
+    },
+    {
+      "ayah": 12,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُۚ  ",
+      "latin": "Wal-ḥabbu żul-‘aṣfi war-raiḥān(u).",
+      "translation": " biji-bijian yang berkulit, dan bunga-bunga yang harum baunya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 13,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 14,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ ",
+      "latin": "Khalaqal-insāna min ṣalṣālin kal-fakhkhār(i).",
+      "translation": " Dia telah menciptakan manusia dari tanah kering seperti tembikar.",
+      "footnotes": null
+    },
+    {
+      "ayah": 15,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَخَلَقَ الْجَاۤنَّ مِنْ مَّارِجٍ مِّنْ نَّارٍۚ  ",
+      "latin": "Wa khalaqal-jānna mim mārijim min nār(in).",
+      "translation": " Dia juga telah menciptakan jin dari nyala api tanpa asap.",
+      "footnotes": null
+    },
+    {
+      "ayah": 16,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 17,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ ",
+      "latin": "Rabbul-masyriqaini wa rabbul-magribain(i).",
+      "translation": " (Dialah) Tuhan kedua tempat terbit (matahari pada musim panas dan musim dingin) dan Tuhan kedua tempat terbenam (matahari pada kedua musim itu). ",
+      "footnotes": null
+    },
+    {
+      "ayah": 18,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": ".Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 19,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيٰنِۙ",
+      "latin": "Marajal-baḥraini yaltaqiyān(i).",
+      "translation": " Dia membiarkan dua laut (tawar dan asin) bertemu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 20,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيٰنِۚ",
+      "latin": "Bainahumā barzakhul lā yabgiyān(i).",
+      "translation": "Di antara keduanya ada pembatas yang tidak dilampaui oleh masing-masing.",
+      "footnotes": null
+    },
+    {
+      "ayah": 21,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 22,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُۚ",
+      "latin": "Yakhruju minhumal-lu'lu'u wal-marjān(u).",
+      "translation": " Dari keduanya keluar mutiara dan marjan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 23,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 24,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِى الْبَحْرِ كَالْاَعْلَامِۚ  ",
+      "latin": "Wa lahul-jawāril-munsya'ātu fil-baḥri kal-a‘lām(i).",
+      "translation": " Milik-Nyalah (bahtera) buatan manusia yang berlayar di laut laksana gunung-gunung.",
+      "footnotes": null
+    },
+    {
+      "ayah": 25,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 26,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍۖ  ",
+      "latin": "Kullu man ‘alaihā fān(in).",
+      "translation": " Semua yang ada di atasnya (bumi) itu akan binasa.",
+      "footnotes": null
+    },
+    {
+      "ayah": 27,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَّيَبْقٰى وَجْهُ رَبِّكَ ذُو الْجَلٰلِ وَالْاِكْرَامِۚ  ",
+      "latin": "Wa yabqā wajhu rabbika żul-jalāli wal-ikrām(i).",
+      "translation": " (Akan tetapi,) wajah (zat) Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal.",
+      "footnotes": null
+    },
+    {
+      "ayah": 28,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 29,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "يَسْـَٔلُهٗ مَنْ فِى السَّمٰوٰتِ وَالْاَرْضِۗ  كُلَّ يَوْمٍ هُوَ فِيْ شَأْنٍۚ",
+      "latin": "Yas'aluhū man fis-samāwāti wal-arḍ(i), kulla yaumin huwa fī sya'n(in).",
+      "translation": " Siapa yang ada di langit dan bumi selalu meminta kepada-Nya. Setiap hari Dia menangani urusan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 30,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 31,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلٰنِۚ  ",
+      "latin": "Sanafrugu lakum ayyuhaṡ-ṡaqalān(i).",
+      "translation": "Kami akan mencurahkan perhatian kepadamu, wahai manusia dan jin.",
+      "footnotes": null
+    },
+    {
+      "ayah": 32,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 33,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "يٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوْا مِنْ اَقْطَارِ السَّمٰوٰتِ وَالْاَرْضِ فَانْفُذُوْاۗ  لَا تَنْفُذُوْنَ اِلَّا بِسُلْطٰنٍۚ ",
+      "latin": "Yā ma‘syaral-jinni wal-insi inistaṭa‘tum an tanfużū min aqṭāris-samāwāti wal-arḍi fanfużū, lā tanfużūna illā bisulṭān(in).",
+      "translation": " Wahai segenap jin dan manusia, jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, tembuslah. Kamu tidak akan mampu menembusnya, kecuali dengan kekuatan (dari Allah). ",
+      "footnotes": null
+    },
+    {
+      "ayah": 34,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 35,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّنْ نَّارٍۙ وَّنُحَاسٌ فَلَا تَنْتَصِرَانِۚ ",
+      "latin": "Yursalu ‘alaikumā syuwāẓum min nār(in), wa nuḥāsun falā tantaṣirān(i).",
+      "translation": "Kepadamu, (wahai jin dan manusia,) disemburkan nyala api dan (ditumpahkan) cairan tembaga panas sehingga kamu tidak dapat menyelamatkan diri.",
+      "footnotes": null
+    },
+    {
+      "ayah": 36,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 37,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَاِذَا انْشَقَّتِ السَّمَاۤءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ ",
+      "latin": "Fa iżansyaqqatis-samā'u fa kānat wardatan kad-dihān(i).",
+      "translation": " Maka, apabila langit terbelah, lalu (warnanya) menjadi merah mawar seperti (kilauan) minyak, (terjadilah kengerian yang hebat).",
+      "footnotes": null
+    },
+    {
+      "ayah": 38,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 39,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَنْ ذَنْۢبِهٖٓ اِنْسٌ وَّلَا جَاۤنٌّۚ  ",
+      "latin": "Fa yauma'iżil lā yus'alu ‘an żambihī insuw wa lā jānn(un).",
+      "translation": " Maka, pada hari itu manusia dan jin tidak ditanya tentang dosanya706)",
+      "footnotes": "706) Mereka tidak ditanya untuk membuktikan amal perbuatannya, tetapi pada saatnya akan ditanya untuk mempertanggungjawabkannya."
+    },
+    {
+      "ayah": 40,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ  ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 41,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "يُعْرَفُ الْمُجْرِمُوْنَ بِسِيْمٰهُمْ فَيُؤْخَذُ بِالنَّوَاصِيْ وَالْاَقْدَامِۚ  ",
+      "latin": "Yu‘raful-mujrimūna bisīmāhum fa yu'khażu bin-nawāṣī wal-aqdām(i).",
+      "translation": " Para pendosa dikenali dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya.",
+      "footnotes": null
+    },
+    {
+      "ayah": 42,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 43,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "هٰذِهٖ جَهَنَّمُ الَّتِيْ يُكَذِّبُ بِهَا الْمُجْرِمُوْنَۘ ",
+      "latin": "Hāżihī jahannamul-latī yukażżibu bihal-mujrimūn(a).",
+      "translation": " Inilah (neraka) Jahanam yang didustakan oleh para pendosa.",
+      "footnotes": null
+    },
+    {
+      "ayah": 44,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "يَطُوْفُوْنَ بَيْنَهَا وَبَيْنَ حَمِيْمٍ اٰنٍۚ  ",
+      "latin": "Yaṭūfūna bainahā wa baina ḥamīmin ān(in).",
+      "translation": "Mereka bolak-balik di antaranya (api neraka) dan air mendidih yang sangat panas.",
+      "footnotes": null
+    },
+    {
+      "ayah": 45,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 46,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهٖ جَنَّتٰنِۚ",
+      "latin": "Wa liman khāfa maqāma rabbihī jannatān(i).",
+      "translation": " Bagi siapa yang takut pada keagungan Tuhannya disediakan dua surga.",
+      "footnotes": null
+    },
+    {
+      "ayah": 47,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 48,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "ذَوَاتَآ اَفْنَانٍۚ ",
+      "latin": "Żawātā afnān(in).",
+      "translation": "Kedua surga itu mempunyai (pepohonan) yang bercabang-cabang.",
+      "footnotes": null
+    },
+    {
+      "ayah": 49,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fabi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 50,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فِيْهِمَا عَيْنٰنِ تَجْرِيٰنِۚ ",
+      "latin": "Fīhimā ‘aināni tajriyān(i).",
+      "translation": " Di dalam kedua (surga) itu terdapat dua mata air yang memancar.",
+      "footnotes": null
+    },
+    {
+      "ayah": 51,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 52,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فِيْهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجٰنِۚ ",
+      "latin": "Fīhimā min kulli fākihatin zaujān(i).",
+      "translation": " Di dalam kedua (surga) itu terdapat aneka buah-buahan yang berpasang-pasangan. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 53,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 54,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "مُتَّكِـِٕيْنَ عَلٰى فُرُشٍۢ بَطَاۤىِٕنُهَا مِنْ اِسْتَبْرَقٍۗ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ ",
+      "latin": "Muttaki'īna ‘alā furusyim baṭā'inuhā min istabraq(in), wa janal-jannataini  dān(in).",
+      "translation": " Mereka berbaring di atas permadani yang bagian dalamnya (terbuat) dari sutera tebal. Buah-buahan di kedua surga itu (dapat) dipetik dari dekat. ",
+      "footnotes": null
+    },
+    {
+      "ayah": 55,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 56,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فِيْهِنَّ قٰصِرٰتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
+      "latin": "Fīhinna qāṣirātuṭ-ṭarf(i), lam yaṭmiṡhunna insun qablahum wa lā jānn(un).",
+      "translation": "Di dalamnya ada (bidadari) yang membatasi pandangan (hanya untuk pasangannya) yang tidak pernah disentuh oleh manusia sebelum mereka dan tidak (pula) oleh jin.",
+      "footnotes": null
+    },
+    {
+      "ayah": 57,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 58,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "كَاَنَّهُنَّ الْيَاقُوْتُ وَالْمَرْجَانُۚ ",
+      "latin": "Ka'annahunnal-yāqūtu wal-marjān(u).",
+      "translation": " Seakan-akan mereka itu permata yakut dan marjan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 59,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 60,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "هَلْ جَزَاۤءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ ",
+      "latin": "Hal jazā'ul-iḥsāni illal-iḥsān(u).",
+      "translation": "Adakah balasan kebaikan selain kebaikan (pula)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 61,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 62,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "وَمِنْ دُوْنِهِمَا جَنَّتٰنِۚ ",
+      "latin": "Wa min dūnihimā jannatān(i).",
+      "translation": " Selain dari kedua (surga) itu ada dua surga (lagi).",
+      "footnotes": null
+    },
+    {
+      "ayah": 63,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 64,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "مُدْهَاۤمَّتٰنِۚ  ",
+      "latin": "Mudhāmmatān(i).",
+      "translation": "Kedua surga itu (terlihat warnanya) hijau tua.",
+      "footnotes": null
+    },
+    {
+      "ayah": 65,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 66,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فِيْهِمَا عَيْنٰنِ نَضَّاخَتٰنِۚ ",
+      "latin": "Fīhimā ‘aināni naḍḍākhatān(i).",
+      "translation": " Di dalam keduanya ada dua mata air yang memancar tanpa henti.",
+      "footnotes": null
+    },
+    {
+      "ayah": 67,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 68,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فِيْهِمَا فَاكِهَةٌ وَّنَخْلٌ وَّرُمَّانٌۚ  ",
+      "latin": "Fīhimā fākihatuw wa nakhluw wa rummān(un).",
+      "translation": "Di dalam keduanya ada buah-buahan (antara lain) kurma dan delima.",
+      "footnotes": null
+    },
+    {
+      "ayah": 69,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 70,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فِيْهِنَّ خَيْرٰتٌ حِسَانٌۚ  ",
+      "latin": "Fīhinna khairātun ḥisān(un).",
+      "translation": " Di dalamnya ada (bidadari) yang mulia (akhlaknya) lagi jelita.",
+      "footnotes": null
+    },
+    {
+      "ayah": 71,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 72,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "حُوْرٌ مَّقْصُوْرٰتٌ فِى الْخِيَامِۚ  ",
+      "latin": "Ḥūrum maqṣūrātun fil-khiyām(i).",
+      "translation": " Bidadari-bidadari yang dipingit dalam kemah-kemah.",
+      "footnotes": null
+    },
+    {
+      "ayah": 73,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 74,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
+      "latin": "Lam yaṭmiṡhunna insun qablahum wa lā jānn(un).",
+      "translation": "Mereka tidak pernah disentuh oleh manusia sebelum mereka dan tidak (pula) oleh jin.",
+      "footnotes": null
+    },
+    {
+      "ayah": 75,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 76,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "مُتَّكِـِٕيْنَ عَلٰى رَفْرَفٍ خُضْرٍ وَّعَبْقَرِيٍّ حِسَانٍۚ  ",
+      "latin": "Muttaki'īna ‘alā rafrafin khuḍriw wa ‘abqariyyin ḥisān(in).",
+      "translation": " Mereka bertelekan pada bantal-bantal yang hijau dan permadani-permadani yang indah.",
+      "footnotes": null
+    },
+    {
+      "ayah": 77,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "latin": "Fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+      "translation": " Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "footnotes": null
+    },
+    {
+      "ayah": 78,
+      "quarter_hizb": 54,
+      "juz": 27,
+      "manzil": 7,
+      "arabic": "تَبٰرَكَ اسْمُ رَبِّكَ ذِى الْجَلٰلِ وَالْاِكْرَامِ ࣖ ",
+      "latin": "Tabārakasmu rabbika żil-jalāli wal-ikrām(i).",
+      "translation": " Maha Berkah nama Tuhanmu Pemilik keagungan dan kemuliaan.",
+      "footnotes": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "arabic": " القدر",
+  "latin": "Al-Qadr",
+  "transliteration": "Al-Qadr",
+  "translation": "Al-Qadar",
+  "num_ayah": 5,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ ",
+      "latin": "Innā anzalnāhu fī lailatil-qadr(i).",
+      "translation": "Sesungguhnya Kami telah menurunkannya (Al-Qur’an) pada Lailatulqadar.",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+      "latin": "Wa mā adrāka mā lailatul-qadr(i).",
+      "translation": "Tahukah kamu apakah Lailatulqadar itu?",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+      "latin": "Lailatul-qadri khairum min alfi syahr(in).",
+      "translation": "Lailatulqadar itu lebih baik daripada seribu bulan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+      "latin": "Tanazzalul-malā'ikatu war rūḥu fīhā bi'iżni rabbihim min kulli amr(in).",
+      "translation": "Pada malam itu turun para malaikat dan Rūḥ (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 60.5,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ",
+      "latin": "Salāmun hiya ḥattā maṭla‘il-fajr(i). ",
+      "translation": "Sejahteralah (malam) itu sampai terbit fajar.",
+      "footnotes": null
+    }
+  ]
+}

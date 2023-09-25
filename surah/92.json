@@ -1,0 +1,220 @@
+{
+  "arabic": " الّيل",
+  "latin": "Al-Lail",
+  "transliteration": "Al-Lail",
+  "translation": "Malam",
+  "num_ayah": 21,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+      "latin": "Wal-laili iżā yagsyā.",
+      "translation": "Demi malam apabila menutupi (cahaya siang),",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+      "latin": "Wan-nahāri iżā tajallā.",
+      "translation": "demi siang apabila terang benderang,",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ",
+      "latin": "Wa mā khalaqaż-żakara wal-unṡā.",
+      "translation": "dan demi penciptaan laki-laki dan perempuan,",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ",
+      "latin": "Inna sa‘yakum lasyattā.",
+      "translation": "sesungguhnya usahamu benar-benar beraneka ragam.",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+      "latin": "Fa ammā man a‘ṭā wattaqā.",
+      "translation": "Siapa yang memberikan (hartanya di jalan Allah) dan bertakwa",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَصَدَّقَ بِالْحُسْنٰىۙ",
+      "latin": "Wa ṣaddaqa bil-ḥusnā.",
+      "translation": "serta membenarkan adanya (balasan) yang terbaik (surga),",
+      "footnotes": null
+    },
+    {
+      "ayah": 7,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ",
+      "latin": "Fa sanuyassiruhū lil-yusrā.",
+      "translation": "Kami akan melapangkan baginya jalan kemudahan (kebahagiaan).",
+      "footnotes": null
+    },
+    {
+      "ayah": 8,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ",
+      "latin": "Wa ammā man bakhila wastagnā.",
+      "translation": "Adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah)",
+      "footnotes": null
+    },
+    {
+      "ayah": 9,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَكَذَّبَ بِالْحُسْنٰىۙ",
+      "latin": "Wa każżaba bil-ḥusnā.",
+      "translation": "serta mendustakan (balasan) yang terbaik,",
+      "footnotes": null
+    },
+    {
+      "ayah": 10,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ",
+      "latin": "Fa sanuyassiruhū lil-‘usrā.   ",
+      "translation": "Kami akan memudahkannya menuju jalan kesengsaraan.",
+      "footnotes": null
+    },
+    {
+      "ayah": 11,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ",
+      "latin": "Wa mā yugnī ‘anhu māluhū iżā taraddā.",
+      "translation": "Hartanya tidak bermanfaat baginya apabila dia telah binasa.",
+      "footnotes": null
+    },
+    {
+      "ayah": 12,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+      "latin": "Inna ‘alainā lal-hudā.",
+      "translation": "Sesungguhnya Kamilah yang (berhak) memberi petunjuk.",
+      "footnotes": null
+    },
+    {
+      "ayah": 13,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ",
+      "latin": "Wa inna lanā lal-ākhirata wal-ūlā.",
+      "translation": "Sesungguhnya milik Kamilah akhirat dan dunia.",
+      "footnotes": null
+    },
+    {
+      "ayah": 14,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+      "latin": "Fa anżartukum nāran talaẓẓā.",
+      "translation": "Aku memperingatkanmu dengan neraka yang menyala-nyala.",
+      "footnotes": null
+    },
+    {
+      "ayah": 15,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ",
+      "latin": "Lā yaṣlāhā illal-asyqā.",
+      "translation": "Tidak masuk ke dalamnya kecuali orang yang paling celaka,",
+      "footnotes": null
+    },
+    {
+      "ayah": 16,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ",
+      "latin": "Allażī każżaba wa tawallā.",
+      "translation": "yang mendustakan (kebenaran) dan berpaling (dari keimanan).",
+      "footnotes": null
+    },
+    {
+      "ayah": 17,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَسَيُجَنَّبُهَا الْاَتْقَىۙ",
+      "latin": "Wa sayujannabuhal-atqā.",
+      "translation": "Akan dijauhkan darinya (neraka) orang yang paling bertakwa,",
+      "footnotes": null
+    },
+    {
+      "ayah": 18,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ",
+      "latin": "Allażī yu'tī mālahū yatazakkā.",
+      "translation": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (diri dari sifat kikir dan tamak).",
+      "footnotes": null
+    },
+    {
+      "ayah": 19,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ",
+      "latin": "Wa mā li'aḥadin ‘indahū min ni‘matin tujzā.",
+      "translation": "Tidak ada suatu nikmat pun yang diberikan seseorang kepadanya yang harus dibalas,758)",
+      "footnotes": "758) Maksudnya adalah bahwa orang-orang yang bertakwa membantu orang lain bukan karena orang itu berjasa kepadanya sehingga perlu membalasnya, melainkan hanya mengharap rida Allah."
+    },
+    {
+      "ayah": 20,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+      "latin": "Illabtigā'a wajhi rabbihil-a‘lā.",
+      "translation": "kecuali (dia memberikannya semata-mata) karena mencari keridaan Tuhannya Yang Maha Tinggi.",
+      "footnotes": null
+    },
+    {
+      "ayah": 21,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَلَسَوْفَ يَرْضٰى ࣖ",
+      "latin": "Wa lasaufa yarḍā.",
+      "translation": "Sungguh, kelak dia akan mendapatkan kepuasan (menerima balasan amalnya).",
+      "footnotes": null
+    }
+  ]
+}

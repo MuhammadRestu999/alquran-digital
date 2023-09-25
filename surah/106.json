@@ -1,0 +1,50 @@
+{
+  "arabic": " قريش",
+  "latin": "Quraisy",
+  "transliteration": "Quraisy",
+  "translation": "Orang Quraisy",
+  "num_ayah": 4,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "لِاِيْلٰفِ قُرَيْشٍۙ",
+      "latin": "Li'īlāfi quraisy(in).",
+      "translation": "Disebabkan oleh kebiasaan orang-orang Quraisy,",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+      "latin": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i).",
+      "translation": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan),",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+      "latin": "Falya‘budū rabba hāżal-bait(i).",
+      "translation": "maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah)",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+      "latin": "Allażī aṭ‘amahum min jū‘(in), wa āmanahum min khauf(in).",
+      "translation": "yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut.",
+      "footnotes": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "arabic": "النّاس",
+  "latin": "An-Nās",
+  "transliteration": "An-Nas",
+  "translation": "Manusia",
+  "num_ayah": 6,
+  "location": "Madaniyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+      "latin": "Qul a‘ūżu birabbin-nās(i).",
+      "translation": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia,",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مَلِكِ النَّاسِۙ",
+      "latin": "Malikin-nās(i).",
+      "translation": "raja manusia,",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِلٰهِ النَّاسِۙ",
+      "latin": "Ilāhin-nās(i).",
+      "translation": "sembahan manusia",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+      "latin": "Min syarril-waswāsil-khannās(i).",
+      "translation": "dari kejahatan (setan) pembisik yang bersembunyi",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+      "latin": "Allażī yuwaswisu fī ṣudūrin-nās(i).",
+      "translation": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+      "latin": "Minal jinnati wan-nās(i).",
+      "translation": "dari (golongan) jin dan manusia.”",
+      "footnotes": null
+    }
+  ]
+}

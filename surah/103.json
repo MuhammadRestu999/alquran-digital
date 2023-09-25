@@ -1,0 +1,40 @@
+{
+  "arabic": " العصر",
+  "latin": "Al-‘Aṣr",
+  "transliteration": "Al-‘Asr",
+  "translation": "Masa",
+  "num_ayah": 3,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَالْعَصْرِۙ",
+      "latin": "Wal-‘aṣr(i).",
+      "translation": "Demi masa,",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+      "latin": "Innal-insāna lafī khusr(in).",
+      "translation": "sesungguhnya manusia benar-benar berada dalam kerugian,",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+      "latin": "Illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqq(i), wa tawāṣau biṣ-ṣabr(i).",
+      "translation": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.",
+      "footnotes": null
+    }
+  ]
+}

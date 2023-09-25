@@ -130,6 +130,4 @@ dist
 .pnp.*
 
 # Other
-surah/
-juz/
 package-lock.json

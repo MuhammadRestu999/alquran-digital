@@ -1,0 +1,40 @@
+{
+  "arabic": "النّصر",
+  "latin": "An-Naṣr",
+  "transliteration": "An-Nasr",
+  "translation": "Pertolongan",
+  "num_ayah": 3,
+  "location": "Madaniyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+      "latin": "Iżā jā'a naṣrullāhi wal-fatḥ(u).",
+      "translation": "Apabila telah datang pertolongan Allah dan kemenangan",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+      "latin": "Wa ra'aitan-nāsa yadkhulūna fī dīnillāhi afwājā(n).",
+      "translation": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.75,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+      "latin": "Fasabbiḥ biḥamdi rabbika wastagfirh(u), innahū kāna tawwābā(n).",
+      "translation": "bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia Maha Penerima tobat.",
+      "footnotes": null
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "arabic": "الضّحى",
+  "latin": "Aḍ-Ḍuḥā",
+  "transliteration": "Ad-Duha",
+  "translation": "Duha",
+  "num_ayah": 11,
+  "location": "Makkiyah",
+  "ayah": [
+    {
+      "ayah": 1,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَالضُّحٰىۙ",
+      "latin": "Waḍ-ḍuḥā.",
+      "translation": "Demi waktu duha",
+      "footnotes": null
+    },
+    {
+      "ayah": 2,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَالَّيْلِ اِذَا سَجٰىۙ",
+      "latin": "Wal-laili iżā sajā.",
+      "translation": "dan demi waktu malam apabila telah sunyi,",
+      "footnotes": null
+    },
+    {
+      "ayah": 3,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ",
+      "latin": "Mā wadda‘aka rabbuka wa mā qalā.",
+      "translation": "Tuhanmu (Nabi Muhammad) tidak meninggalkan dan tidak (pula) membencimu.",
+      "footnotes": null
+    },
+    {
+      "ayah": 4,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ",
+      "latin": "Wa lal-ākhiratu khairul laka minal-ūlā.",
+      "translation": "Sungguh, akhirat itu lebih baik bagimu daripada yang permulaan (dunia).",
+      "footnotes": null
+    },
+    {
+      "ayah": 5,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ",
+      "latin": "Wa lasaufa yu‘ṭīka rabbuka fa tarḍā.",
+      "translation": "Sungguh, kelak (di akhirat nanti) Tuhanmu pasti memberikan karunia-Nya kepadamu sehingga engkau rida.",
+      "footnotes": null
+    },
+    {
+      "ayah": 6,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ",
+      "latin": "Alam yajidka yatīman fa āwā.",
+      "translation": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(-mu);",
+      "footnotes": null
+    },
+    {
+      "ayah": 7,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ",
+      "latin": "Wa wajadaka ḍāllan fa hadā.",
+      "translation": "mendapatimu sebagai seorang yang tidak tahu (tentang syariat), lalu Dia memberimu petunjuk (wahyu);",
+      "footnotes": null
+    },
+    {
+      "ayah": 8,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ",
+      "latin": "Wa wajadaka ‘ā'ilan fa agnā.",
+      "translation": "dan mendapatimu sebagai seorang yang fakir, lalu Dia memberimu kecukupan?",
+      "footnotes": null
+    },
+    {
+      "ayah": 9,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ",
+      "latin": "Fa ammal-yatīma falā taqhar.",
+      "translation": "Terhadap anak yatim, janganlah engkau berlaku sewenang-wenang.",
+      "footnotes": null
+    },
+    {
+      "ayah": 10,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ",
+      "latin": "Wa ammas-sā'ila falā tanhar.",
+      "translation": "Terhadap orang yang meminta-minta, janganlah engkau menghardik.",
+      "footnotes": null
+    },
+    {
+      "ayah": 11,
+      "quarter_hizb": 60.25,
+      "juz": 30,
+      "manzil": 7,
+      "arabic": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ",
+      "latin": "Wa ammā bini‘mati rabbika fa ḥaddiṡ.",
+      "translation": "Terhadap nikmat Tuhanmu, nyatakanlah (dengan bersyukur).",
+      "footnotes": null
+    }
+  ]
+}
