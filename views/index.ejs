@@ -113,7 +113,6 @@
       function search(q) {
         q = q
           .toLowerCase()
-          .replace(/ /g, "-");
         const founds = listSurah.filter(surah => surah.latin.replace(/-/g, " ").replace(/‘/g, "'").toLowerCase().includes(q) || surah.transliteration.replace(/-/g, " ").replace(/‘/g, "'").toLowerCase().includes(q));
         let inner = "";
         for(let i of founds) {
