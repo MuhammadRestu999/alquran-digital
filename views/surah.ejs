@@ -65,7 +65,7 @@
     <div class="container">
       <div><% for(const ayat of data.ayah) { %>
         <div class="ayat">
-          <h1 class="text-center" id="ayat.ayah"><%= ayat.ayah %></h1>
+          <h1 class="text-center" id="<%= ayat.ayah %>"><%= ayat.ayah %></h1>
           <hr>
           <h3 class="text-end arabic"><%= ayat.arabic %></h3>
           <p><%= ayat.latin.trim() %></p>
