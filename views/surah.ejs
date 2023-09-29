@@ -181,6 +181,14 @@
         };
         localStorage.bookmarks = JSON.stringify(bookmarks);
       };
+      const hash = location.hash || "";
+      if(hash && /^#([0-9]+)$/.test(hash)) {
+        const no = hash.replace(/^#([0-9]+)$/, "$1");
+        if(no > _ayat.length) location.hash = "";
+        else setTimeout(() => {
+          document.querySelector(`h1[id="${no}"]`).scrollIntoView()
+        }, 500);
+      };
     </script>
 
     <!-- Google tag (gtag.js) -->
