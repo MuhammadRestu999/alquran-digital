@@ -1,0 +1,7 @@
+run = "npm install && npm run start"
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "npm install -& npm run start"]
